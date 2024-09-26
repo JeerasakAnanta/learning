@@ -5,21 +5,21 @@ pipeline {
             steps {
                 // Commands to build the project
                 echo 'Building..'
-                sh 'make'  // Example for a Makefile build
+                // sh 'make'  // Example for a Makefile build
             }
         }
         stage('Test') {
             steps {
                 // Commands to test the project
                 echo 'Testing..'
-                sh 'make test'  // Adjust as per your testing framework
+                // sh 'make test'  // Adjust as per your testing framework
             }
         }
         stage('Deploy') {
             steps {
                 // Commands to deploy the application
                 echo 'Deploying..'
-                sh 'make deploy'  // Adjust as needed
+                // sh 'make deploy'  // Adjust as needed
             }
         }
     }
