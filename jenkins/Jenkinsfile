@@ -5,7 +5,10 @@ pipeline {
             steps {
                 // Commands to build the project
                 echo 'Building..'
-                // sh 'make'  // Example for a Makefile build
+                sh 'chmod 777 Dockerfile '  // Example for a Makefile build
+
+
+                sh 'docker build -t myimage:latest .'
             }
         }
         stage('Test') {
