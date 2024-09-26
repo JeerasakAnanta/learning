@@ -1,0 +1,36 @@
+pipeline {
+    agent any  // Use any available agent
+    stages {
+        stage('Build') {
+            steps {
+                // Commands to build the project
+                echo 'Building..'
+                sh 'make'  // Example for a Makefile build
+            }
+        }
+        stage('Test') {
+            steps {
+                // Commands to test the project
+                echo 'Testing..'
+                sh 'make test'  // Adjust as per your testing framework
+            }
+        }
+        stage('Deploy') {
+            steps {
+                // Commands to deploy the application
+                echo 'Deploying..'
+                sh 'make deploy'  // Adjust as needed
+            }
+        }
+    }
+    post {
+        success {
+            // Steps to run on successful build
+            echo 'Build was successful!'
+        }
+        failure {
+            // Steps to run on failed build
+            echo 'Build failed.'
+        }
+    }
+}
