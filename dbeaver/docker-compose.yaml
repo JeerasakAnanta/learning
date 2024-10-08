@@ -1,0 +1,12 @@
+version: '3'
+services:
+  dbeaver:
+    image: dbeaver/cloudbeaver
+    ports:
+      - "8978:8080"
+    volumes:
+      - ./dbeaver-data:/usr/local/dbeaver/data
+    restart: always
+    environment:
+      - CB_MAX_MEMORY=2048m
+
