@@ -1933,3 +1933,4 @@ tailwindcss/node_modules/yaml/dist/stringify/stringifyPair.d.ts
 tailwindcss/node_modules/yaml/dist/stringify/stringifyPair.js
 tailwindcss/node_modules/yaml/dist/stringify/stringifyString.d.ts
 tailwindcss/node_modules/yaml/dist/stringify/stringifyString.js
+.env
