@@ -1,0 +1,12 @@
+services:
+  
+  pocketbase:
+    image: adrianmusante/pocketbase:latest
+    container_name: pocketbase
+    environment:
+      - POCKETBASE_PORT_NUMBER=3000
+      - POCKETBASE_ENCRYPTION_KEY=${POCKETBASE_ENCRYPTION_KEY:-}
+    ports:
+      - "3000:3000"
+    # volumes:
+    #   - pocketbase_data:/pocketbase
