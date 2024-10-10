@@ -12,5 +12,6 @@ Selfhost Supabase,
 | N8N           | Zapier alternative |
 | Redash        | BI analytics |
 | Jitsi         | Video conference |
-| Plausible     | Google analytics alternative |
-| Nextcloud     | Cloud storage |
+| Plausible     | Google analytics alternative  |
+| Nextcloud     | Cloud storage                 |
+| git           |                               |
