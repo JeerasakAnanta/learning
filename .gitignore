@@ -13,4 +13,5 @@ python/env/
 
 #gramfana 
 ./grafana/data/
+grafana/data/grafana.db
 
