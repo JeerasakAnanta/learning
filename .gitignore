@@ -11,5 +11,7 @@ kaggle/.venv
 #python env 
 python/env/
 
-#gunfena 
+
+#gramfana 
+./grafana/data/
 grafana/data/grafana.db

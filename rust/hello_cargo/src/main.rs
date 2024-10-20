@@ -1,8 +1,12 @@
+fn hell(s:String){
+    println!("Hello, world! {} ",s);
+}
 fn main() {
-    println!("Hello, world!");
-    for i in 0..10 {
-        println!("{}", i);
-    }
+    let  s1 =  "GAME! ;)".to_string();
 
-    println!("  ");
+    // call function
+    hell(s1.clone());
+
+    print!("{ }",s1);
+
 }
