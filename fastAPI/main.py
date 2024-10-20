@@ -1,11 +1,17 @@
+from typing import Union
 from fastapi import FastAPI
 
 app = FastAPI()
 
 @app.get("/")
-async def root():    
-    return {"message": "Hello World 3:"}
+def read_root():
+    return {"Hello": "World"}
 
-@app.get("/items/{item_id}")
-async def read_item(item_id: int):
-    return {"item_id": item_id}
+@app.get("/hello")
+def hello():
+
+    x = "hello world ;)"
+    return {"message": x}
+
+@app.post("/predict")
+    return {"message": "post"}

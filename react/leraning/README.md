@@ -1,0 +1,3 @@
+# leraing project
+
+- hello world ;)

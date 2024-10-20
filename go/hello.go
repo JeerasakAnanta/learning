@@ -1,11 +1,8 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
-func main() {
-	fmt.Println("Hello, World!")
-
-	sd
+func Hello(){
+  fmt.Println(message)
+  message :=  fmt.Sprintf("Hello, World")
 }
