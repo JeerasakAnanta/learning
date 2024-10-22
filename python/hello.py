@@ -13,7 +13,12 @@ def main():
     process.run("htop")
 
     time.sleep(1)
+    # heloworld ;)
+
     print("------------- Done --------------------")
+
+    for i in range(100):
+        print(i)
 
 
 if __name__ == "__main__":
