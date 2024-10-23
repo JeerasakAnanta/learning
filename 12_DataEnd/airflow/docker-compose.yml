@@ -1,0 +1,42 @@
+services:
+  airflow-webserver:
+    image: apache/airflow:2.5.0
+    restart: always
+    depends_on:
+      - airflow-scheduler
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__WEBSERVER__RBAC=True
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=sqlite:////usr/local/airflow/airflow.db
+    ports:
+      - "8085:8080"
+    volumes:
+      - ./dags:/usr/local/airflow/dags
+    command: webserver
+
+  airflow-scheduler:
+    image: apache/airflow:2.5.0
+    restart: always
+    depends_on:
+      - airflow-webserver
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=sqlite:////usr/local/airflow/airflow.db
+    volumes:
+      - ./dags:/usr/local/airflow/dags
+    command: scheduler
+
+  airflow-redis:
+    image: redis:latest
+
+  airflow-worker:
+    image: apache/airflow:2.5.0
+    restart: always
+    depends_on:
+      - airflow-scheduler
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+      - AIRFLOW__CELERY__RESULT_BACKEND=redis://airflow-redis:6379/0
+    volumes:
+      - ./dags:/usr/local/airflow/dags
+    command: worker

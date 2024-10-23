@@ -1,0 +1,26 @@
+#10/23/2024
+#16:59:55
+
+[tool.poetry]
+name = "project"
+version = "0.3.0"
+description = ""
+authors = ["Game <jeerasakananta@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+api = "project.app:main"
+demo = "demo.app:main"
+
+[tool.poetry.dependencies]
+
+python = "^3.10"
+fastapi = "0.115.2"
+pytest = "^8.3.3"
+requests = "^2.32.3"
+uvicorn = "^0.32.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
