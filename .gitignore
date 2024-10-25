@@ -17,3 +17,4 @@ python/env/
 grafana/data/grafana.db
 poetry/project/node_modules
 poetry/project/project/__pycache__
+12_DataEnd/grafana/data/grafana.db
