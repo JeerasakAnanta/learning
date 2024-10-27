@@ -18,3 +18,10 @@ grafana/data/grafana.db
 poetry/project/node_modules
 poetry/project/project/__pycache__
 12_DataEnd/grafana/data/grafana.db
+
+
+#  
+02_DataBase/postgres/pgdata/
+12_DataEnd/grafana/data/png/
+12_DataEnd/grafana/data/pdf/
+12_DataEnd/grafana/data/csv/
