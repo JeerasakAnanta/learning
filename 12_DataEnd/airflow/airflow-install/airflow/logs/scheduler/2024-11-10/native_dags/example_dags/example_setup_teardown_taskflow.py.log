@@ -1,0 +1,15 @@
+[2024-11-11T00:10:47.805+0700] {processor.py:186} INFO - Started process (PID=62411) to work on /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-11-11T00:10:47.806+0700] {processor.py:914} INFO - Processing file /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-11-11T00:10:47.807+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.806+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-11-11T00:10:47.812+0700] {processor.py:925} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-11-11T00:10:47.868+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.867+0700] {override.py:1911} INFO - Created Permission View: can read on DAG:example_setup_teardown_taskflow
+[2024-11-11T00:10:47.878+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.878+0700] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_setup_teardown_taskflow
+[2024-11-11T00:10:47.883+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.883+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_setup_teardown_taskflow
+[2024-11-11T00:10:47.892+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.892+0700] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_setup_teardown_taskflow
+[2024-11-11T00:10:47.898+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.898+0700] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown_taskflow
+[2024-11-11T00:10:47.903+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.903+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown_taskflow
+[2024-11-11T00:10:47.908+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.908+0700] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_setup_teardown_taskflow
+[2024-11-11T00:10:47.908+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.908+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:10:47.914+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.914+0700] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown_taskflow
+[2024-11-11T00:10:47.914+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:10:47.914+0700] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown_taskflow to None, run_after=None
+[2024-11-11T00:10:47.925+0700] {processor.py:208} INFO - Processing /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.123 seconds

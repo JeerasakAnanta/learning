@@ -1,0 +1,386 @@
+[2024-11-11T00:16:35.545+0700] {processor.py:186} INFO - Started process (PID=69136) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:16:35.545+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:16:35.546+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.546+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:16:35.552+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:16:35.605+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.604+0700] {override.py:1911} INFO - Created Permission View: can read on DAG:hello_world_dag
+[2024-11-11T00:16:35.613+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.613+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG:hello_world_dag
+[2024-11-11T00:16:35.619+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.619+0700] {override.py:1911} INFO - Created Permission View: can edit on DAG:hello_world_dag
+[2024-11-11T00:16:35.628+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.627+0700] {override.py:1911} INFO - Created Permission View: can read on DAG Run:hello_world_dag
+[2024-11-11T00:16:35.633+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.633+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:hello_world_dag
+[2024-11-11T00:16:35.638+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.638+0700] {override.py:1911} INFO - Created Permission View: can create on DAG Run:hello_world_dag
+[2024-11-11T00:16:35.643+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.643+0700] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:hello_world_dag
+[2024-11-11T00:16:35.643+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.643+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:16:35.648+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.648+0700] {dag.py:3262} INFO - Creating ORM DAG for hello_world_dag
+[2024-11-11T00:16:35.652+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:16:35.652+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-02 00:00:00+00:00
+[2024-11-11T00:16:35.662+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.119 seconds
+[2024-11-11T00:17:06.725+0700] {processor.py:186} INFO - Started process (PID=69792) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:17:06.728+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:17:06.729+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:17:06.729+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:17:06.734+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:17:06.744+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:17:06.743+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:17:06.754+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:17:06.753+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-02 00:00:00+00:00
+[2024-11-11T00:17:06.765+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.043 seconds
+[2024-11-11T00:17:36.950+0700] {processor.py:186} INFO - Started process (PID=70486) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:17:36.952+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:17:36.954+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:17:36.953+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:17:36.958+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:17:36.968+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:17:36.968+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:17:36.978+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:17:36.978+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-02 00:00:00+00:00
+[2024-11-11T00:17:36.989+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.042 seconds
+[2024-11-11T00:18:07.188+0700] {processor.py:186} INFO - Started process (PID=71299) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:18:07.190+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:18:07.192+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:18:07.192+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:18:07.198+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:18:07.209+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:18:07.209+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:18:07.219+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:18:07.219+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-02 00:00:00+00:00
+[2024-11-11T00:18:07.233+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.050 seconds
+[2024-11-11T00:18:38.146+0700] {processor.py:186} INFO - Started process (PID=72952) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:18:38.149+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:18:38.150+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:18:38.150+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:18:38.156+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:18:38.167+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:18:38.167+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:18:38.176+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:18:38.176+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-01-15 00:00:00+00:00, run_after=2023-01-16 00:00:00+00:00
+[2024-11-11T00:18:38.188+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.045 seconds
+[2024-11-11T00:19:09.157+0700] {processor.py:186} INFO - Started process (PID=74911) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:19:09.160+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:19:09.161+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:19:09.161+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:19:09.165+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:19:09.176+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:19:09.176+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:19:09.187+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:19:09.187+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-02-05 00:00:00+00:00, run_after=2023-02-06 00:00:00+00:00
+[2024-11-11T00:19:09.198+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.046 seconds
+[2024-11-11T00:19:40.376+0700] {processor.py:186} INFO - Started process (PID=76917) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:19:40.388+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:19:40.393+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:19:40.393+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:19:40.400+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:19:40.412+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:19:40.412+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:19:40.422+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:19:40.422+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-02-24 00:00:00+00:00, run_after=2023-02-25 00:00:00+00:00
+[2024-11-11T00:19:40.446+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.075 seconds
+[2024-11-11T00:20:10.886+0700] {processor.py:186} INFO - Started process (PID=78869) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:20:10.890+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:20:10.892+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:20:10.892+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:20:10.899+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:20:10.910+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:20:10.910+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:20:10.920+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:20:10.920+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-03-13 00:00:00+00:00, run_after=2023-03-14 00:00:00+00:00
+[2024-11-11T00:20:10.940+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.059 seconds
+[2024-11-11T00:20:41.309+0700] {processor.py:186} INFO - Started process (PID=80724) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:20:41.312+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:20:41.313+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:20:41.313+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:20:41.318+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:20:41.328+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:20:41.328+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:20:41.339+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:20:41.339+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-04-01 00:00:00+00:00, run_after=2023-04-02 00:00:00+00:00
+[2024-11-11T00:20:41.350+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.045 seconds
+[2024-11-11T00:21:11.479+0700] {processor.py:186} INFO - Started process (PID=82609) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:21:11.482+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:21:11.484+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:21:11.483+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:21:11.490+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:21:11.505+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:21:11.505+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:21:11.514+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:21:11.514+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-04-20 00:00:00+00:00, run_after=2023-04-21 00:00:00+00:00
+[2024-11-11T00:21:11.529+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.053 seconds
+[2024-11-11T00:21:42.711+0700] {processor.py:186} INFO - Started process (PID=84537) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:21:42.714+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:21:42.716+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:21:42.716+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:21:42.723+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:21:42.728+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:21:42.728+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:21:42.738+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:21:42.738+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-05-10 00:00:00+00:00, run_after=2023-05-11 00:00:00+00:00
+[2024-11-11T00:21:42.749+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.041 seconds
+[2024-11-11T00:22:13.386+0700] {processor.py:186} INFO - Started process (PID=86476) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:22:13.389+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:22:13.390+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:22:13.390+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:22:13.395+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:22:13.444+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:22:13.444+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:22:13.454+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:22:13.454+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-05-30 00:00:00+00:00, run_after=2023-05-31 00:00:00+00:00
+[2024-11-11T00:22:13.466+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.084 seconds
+[2024-11-11T00:22:44.359+0700] {processor.py:186} INFO - Started process (PID=88393) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:22:44.362+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:22:44.363+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:22:44.363+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:22:44.369+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:22:44.379+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:22:44.379+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:22:44.389+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:22:44.389+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-06-19 00:00:00+00:00, run_after=2023-06-20 00:00:00+00:00
+[2024-11-11T00:22:44.400+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.046 seconds
+[2024-11-11T00:23:15.705+0700] {processor.py:186} INFO - Started process (PID=90603) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:15.705+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:23:15.706+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:15.706+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:15.711+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:15.715+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:15.715+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:23:15.725+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:15.725+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2023-07-09 00:00:00+00:00, run_after=2023-07-10 00:00:00+00:00
+[2024-11-11T00:23:15.736+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.035 seconds
+[2024-11-11T00:23:37.375+0700] {processor.py:186} INFO - Started process (PID=92078) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:37.378+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:23:37.380+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:37.380+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:37.386+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:37.390+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:37.389+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:23:37.400+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:37.400+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-01 00:00:00+00:00, run_after=2024-11-02 00:00:00+00:00
+[2024-11-11T00:23:37.412+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.041 seconds
+[2024-11-11T00:23:45.992+0700] {processor.py:186} INFO - Started process (PID=92777) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:45.993+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:23:45.994+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:45.994+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:46.000+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:23:46.049+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:46.049+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:23:46.057+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:23:46.057+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-07 00:00:00+00:00, run_after=2024-11-08 00:00:00+00:00
+[2024-11-11T00:23:46.069+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.080 seconds
+[2024-11-11T00:24:16.701+0700] {processor.py:186} INFO - Started process (PID=93643) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:24:16.704+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:24:16.706+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:24:16.706+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:24:16.711+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:24:16.722+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:24:16.722+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:24:16.732+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:24:16.732+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:24:16.744+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.049 seconds
+[2024-11-11T00:24:47.695+0700] {processor.py:186} INFO - Started process (PID=94345) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:24:47.698+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:24:47.699+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:24:47.699+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:24:47.704+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:24:47.708+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:24:47.708+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:24:47.720+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:24:47.719+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:24:47.730+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.039 seconds
+[2024-11-11T00:25:18.023+0700] {processor.py:186} INFO - Started process (PID=94939) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:25:18.024+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:25:18.025+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:25:18.025+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:25:18.030+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:25:18.078+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:25:18.078+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:25:18.088+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:25:18.088+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:25:18.102+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.082 seconds
+[2024-11-11T00:25:48.346+0700] {processor.py:186} INFO - Started process (PID=95543) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:25:48.349+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:25:48.350+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:25:48.349+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:25:48.354+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:25:48.364+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:25:48.364+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:25:48.374+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:25:48.374+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:25:48.385+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.042 seconds
+[2024-11-11T00:26:18.678+0700] {processor.py:186} INFO - Started process (PID=96185) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:26:18.680+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:26:18.682+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:26:18.682+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:26:18.687+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:26:18.691+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:26:18.691+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:26:18.701+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:26:18.701+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:26:18.714+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.041 seconds
+[2024-11-11T00:26:49.017+0700] {processor.py:186} INFO - Started process (PID=96833) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:26:49.019+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:26:49.021+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:26:49.020+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:26:49.027+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:26:49.073+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:26:49.073+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:26:49.082+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:26:49.082+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:26:49.093+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.081 seconds
+[2024-11-11T00:27:19.357+0700] {processor.py:186} INFO - Started process (PID=97431) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:27:19.363+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:27:19.366+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:27:19.365+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:27:19.372+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:27:19.382+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:27:19.382+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:27:19.392+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:27:19.392+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:27:19.403+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.051 seconds
+[2024-11-11T00:27:49.701+0700] {processor.py:186} INFO - Started process (PID=98032) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:27:49.704+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:27:49.706+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:27:49.706+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:27:49.713+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:27:49.718+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:27:49.718+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:27:49.729+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:27:49.729+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:27:49.739+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.043 seconds
+[2024-11-11T00:28:20.049+0700] {processor.py:186} INFO - Started process (PID=98671) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:28:20.052+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:28:20.054+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:28:20.053+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:28:20.059+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:28:20.110+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:28:20.110+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:28:20.119+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:28:20.119+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:28:20.130+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.087 seconds
+[2024-11-11T00:28:50.389+0700] {processor.py:186} INFO - Started process (PID=99277) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:28:50.392+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:28:50.393+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:28:50.393+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:28:50.400+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:28:50.429+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:28:50.429+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:28:50.451+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:28:50.451+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:28:50.465+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.081 seconds
+[2024-11-11T00:29:20.728+0700] {processor.py:186} INFO - Started process (PID=99891) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:29:20.734+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:29:20.737+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:29:20.736+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:29:20.745+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:29:20.751+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:29:20.750+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:29:20.761+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:29:20.761+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:29:20.773+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.052 seconds
+[2024-11-11T00:29:51.029+0700] {processor.py:186} INFO - Started process (PID=100467) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:29:51.032+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:29:51.034+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:29:51.033+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:29:51.039+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:29:51.112+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:29:51.112+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:29:51.122+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:29:51.122+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:29:51.135+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.110 seconds
+[2024-11-11T00:30:21.471+0700] {processor.py:186} INFO - Started process (PID=101095) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:30:21.474+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:30:21.477+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:30:21.476+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:30:21.483+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:30:21.494+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:30:21.493+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:30:21.505+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:30:21.505+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:30:21.517+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.052 seconds
+[2024-11-11T00:30:51.819+0700] {processor.py:186} INFO - Started process (PID=101720) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:30:51.822+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:30:51.824+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:30:51.824+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:30:51.832+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:30:51.836+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:30:51.836+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:30:51.846+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:30:51.846+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:30:51.858+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.046 seconds
+[2024-11-11T00:31:22.158+0700] {processor.py:186} INFO - Started process (PID=102298) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:31:22.161+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:31:22.163+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:31:22.163+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:31:22.170+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:31:22.217+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:31:22.217+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:31:22.287+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:31:22.287+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:31:22.301+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.147 seconds
+[2024-11-11T00:31:52.431+0700] {processor.py:186} INFO - Started process (PID=102879) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:31:52.433+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:31:52.435+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:31:52.434+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:31:52.442+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:31:52.455+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:31:52.455+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:31:52.465+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:31:52.465+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:31:52.476+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.049 seconds
+[2024-11-11T00:32:22.602+0700] {processor.py:186} INFO - Started process (PID=103524) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:32:22.605+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:32:22.607+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:32:22.607+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:32:22.616+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:32:22.622+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:32:22.622+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:32:22.634+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:32:22.634+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:32:22.646+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.049 seconds
+[2024-11-11T00:32:52.769+0700] {processor.py:186} INFO - Started process (PID=104175) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:32:52.772+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:32:52.773+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:32:52.773+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:32:52.778+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:32:52.891+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:32:52.891+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:32:52.899+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:32:52.899+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:32:52.912+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.148 seconds
+[2024-11-11T00:33:23.036+0700] {processor.py:186} INFO - Started process (PID=104853) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:33:23.039+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:33:23.041+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:33:23.040+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:33:23.046+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:33:23.057+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:33:23.057+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:33:23.067+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:33:23.067+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:33:23.077+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.047 seconds
+[2024-11-11T00:33:53.183+0700] {processor.py:186} INFO - Started process (PID=105472) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:33:53.186+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:33:53.189+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:33:53.188+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:33:53.195+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:33:53.199+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:33:53.199+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:33:53.210+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:33:53.210+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:33:53.222+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.042 seconds
+[2024-11-11T00:34:23.362+0700] {processor.py:186} INFO - Started process (PID=106076) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:34:23.364+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:34:23.366+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:34:23.366+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:34:23.371+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:34:23.483+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:34:23.483+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:34:23.491+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:34:23.491+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:34:23.504+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.148 seconds
+[2024-11-11T00:34:53.636+0700] {processor.py:186} INFO - Started process (PID=106709) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:34:53.639+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:34:53.640+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:34:53.640+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:34:53.647+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:34:53.658+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:34:53.658+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:34:53.669+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:34:53.669+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:34:53.744+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.114 seconds
+[2024-11-11T00:35:23.897+0700] {processor.py:186} INFO - Started process (PID=107351) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:35:23.902+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:35:23.904+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:35:23.903+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:35:23.909+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:35:23.913+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:35:23.913+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:35:23.930+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:35:23.930+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:35:24.024+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.131 seconds
+[2024-11-11T00:35:54.170+0700] {processor.py:186} INFO - Started process (PID=107985) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:35:54.176+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:35:54.178+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:35:54.178+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:35:54.184+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:35:54.293+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:35:54.293+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:35:54.302+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:35:54.302+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:35:54.316+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.150 seconds
+[2024-11-11T00:36:24.430+0700] {processor.py:186} INFO - Started process (PID=108676) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:36:24.433+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:36:24.434+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:36:24.434+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:36:24.439+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:36:24.452+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:36:24.452+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:36:24.547+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:36:24.547+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:36:24.562+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.135 seconds
+[2024-11-11T00:36:54.707+0700] {processor.py:186} INFO - Started process (PID=109318) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:36:54.712+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:36:54.713+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:36:54.713+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:36:54.719+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:36:54.725+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:36:54.724+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:36:54.802+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:36:54.802+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:36:54.815+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.115 seconds
+[2024-11-11T00:37:24.994+0700] {processor.py:186} INFO - Started process (PID=109954) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:37:24.999+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:37:25.071+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:37:25.071+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:37:25.074+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:37:25.122+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:37:25.122+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:37:25.130+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:37:25.130+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:37:25.146+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.156 seconds
+[2024-11-11T00:37:55.279+0700] {processor.py:186} INFO - Started process (PID=110557) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:37:55.281+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:37:55.283+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:37:55.282+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:37:55.289+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:37:55.300+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:37:55.299+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:37:55.310+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:37:55.310+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:37:55.321+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.047 seconds
+[2024-11-11T00:38:25.454+0700] {processor.py:186} INFO - Started process (PID=111204) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:38:25.457+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:38:25.460+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:38:25.459+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:38:25.467+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:38:25.472+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:38:25.471+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:38:25.483+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:38:25.483+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:38:25.495+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.046 seconds
+[2024-11-11T00:38:55.608+0700] {processor.py:186} INFO - Started process (PID=111814) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:38:55.611+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:38:55.613+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:38:55.612+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:38:55.617+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:38:55.671+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:38:55.671+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:38:55.681+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:38:55.681+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:38:55.694+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.090 seconds
+[2024-11-11T00:39:25.767+0700] {processor.py:186} INFO - Started process (PID=112448) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:39:25.770+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:39:25.771+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:39:25.771+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:39:25.776+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:39:25.787+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:39:25.786+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:39:25.799+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:39:25.799+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:39:25.811+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.049 seconds
+[2024-11-11T00:39:55.945+0700] {processor.py:186} INFO - Started process (PID=113084) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:39:55.947+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:39:55.949+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:39:55.949+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:39:55.953+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:39:55.957+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:39:55.957+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:39:55.968+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:39:55.968+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:39:55.980+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.041 seconds
+[2024-11-11T00:40:26.125+0700] {processor.py:186} INFO - Started process (PID=113795) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:40:26.127+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:40:26.129+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:40:26.128+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:40:26.136+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:40:26.196+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:40:26.196+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:40:26.206+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:40:26.206+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:40:26.222+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.102 seconds
+[2024-11-11T00:40:56.410+0700] {processor.py:186} INFO - Started process (PID=114456) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:40:56.413+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:40:56.415+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:40:56.414+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:40:56.420+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:40:56.431+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:40:56.431+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:40:56.441+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:40:56.441+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:40:56.452+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.052 seconds
+[2024-11-11T00:41:26.599+0700] {processor.py:186} INFO - Started process (PID=115116) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:41:26.602+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:41:26.604+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:41:26.603+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:41:26.609+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:41:26.614+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:41:26.614+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:41:26.628+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:41:26.628+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:41:26.643+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.049 seconds
+[2024-11-11T00:41:56.767+0700] {processor.py:186} INFO - Started process (PID=115750) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:41:56.769+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:41:56.771+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:41:56.771+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:41:56.776+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:41:56.828+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:41:56.828+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:41:56.837+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:41:56.837+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:41:56.849+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.086 seconds
+[2024-11-11T00:42:26.929+0700] {processor.py:186} INFO - Started process (PID=116398) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:42:26.932+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:42:26.933+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:42:26.933+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:42:26.940+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:42:26.952+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:42:26.952+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:42:26.964+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:42:26.964+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:42:26.976+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.052 seconds
+[2024-11-11T00:42:57.091+0700] {processor.py:186} INFO - Started process (PID=117050) to work on /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:42:57.091+0700] {processor.py:914} INFO - Processing file /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py for tasks to queue
+[2024-11-11T00:42:57.093+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:42:57.092+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:42:57.098+0700] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py
+[2024-11-11T00:42:57.102+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:42:57.102+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:42:57.113+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:42:57.113+0700] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-11T00:42:57.125+0700] {processor.py:208} INFO - Processing /home/game/learning/12_DataEnd/airflow/airflow-install/airflow/dags/hello2.py took 0.039 seconds

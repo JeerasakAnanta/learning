@@ -1,0 +1,15 @@
+[2024-11-11T00:11:01.437+0700] {processor.py:186} INFO - Started process (PID=62491) to work on /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-11-11T00:11:01.438+0700] {processor.py:914} INFO - Processing file /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-11-11T00:11:01.439+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.439+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-11-11T00:11:01.443+0700] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-11-11T00:11:01.499+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.498+0700] {override.py:1911} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2024-11-11T00:11:01.506+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.506+0700] {override.py:1911} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2024-11-11T00:11:01.512+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.512+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2024-11-11T00:11:01.524+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.524+0700] {override.py:1911} INFO - Created Permission View: can read on DAG Run:example_trigger_target_dag
+[2024-11-11T00:11:01.531+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.530+0700] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:example_trigger_target_dag
+[2024-11-11T00:11:01.536+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.536+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:example_trigger_target_dag
+[2024-11-11T00:11:01.542+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.542+0700] {override.py:1911} INFO - Created Permission View: can create on DAG Run:example_trigger_target_dag
+[2024-11-11T00:11:01.542+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.542+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:11:01.548+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.548+0700] {dag.py:3262} INFO - Creating ORM DAG for example_trigger_target_dag
+[2024-11-11T00:11:01.549+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:01.549+0700] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-11-11T00:11:01.559+0700] {processor.py:208} INFO - Processing /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.125 seconds

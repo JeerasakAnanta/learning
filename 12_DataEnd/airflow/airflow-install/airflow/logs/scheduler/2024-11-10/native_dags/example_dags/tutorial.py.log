@@ -1,0 +1,15 @@
+[2024-11-11T00:11:08.514+0700] {processor.py:186} INFO - Started process (PID=62577) to work on /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-11-11T00:11:08.515+0700] {processor.py:914} INFO - Processing file /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-11-11T00:11:08.516+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.516+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-11-11T00:11:08.522+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-11-11T00:11:08.577+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.576+0700] {override.py:1911} INFO - Created Permission View: can read on DAG:tutorial
+[2024-11-11T00:11:08.584+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.584+0700] {override.py:1911} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-11-11T00:11:08.591+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.591+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-11-11T00:11:08.602+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.602+0700] {override.py:1911} INFO - Created Permission View: can read on DAG Run:tutorial
+[2024-11-11T00:11:08.608+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.608+0700] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2024-11-11T00:11:08.614+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.614+0700] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2024-11-11T00:11:08.621+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.621+0700] {override.py:1911} INFO - Created Permission View: can create on DAG Run:tutorial
+[2024-11-11T00:11:08.621+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.621+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-11T00:11:08.628+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.628+0700] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2024-11-11T00:11:08.632+0700] {logging_mixin.py:190} INFO - [2024-11-11T00:11:08.632+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-11-09 00:00:00+00:00, run_after=2024-11-10 00:00:00+00:00
+[2024-11-11T00:11:08.647+0700] {processor.py:208} INFO - Processing /home/game/.cache/pypoetry/virtualenvs/airflow-install-dU2IC21M-py3.12/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.137 seconds
