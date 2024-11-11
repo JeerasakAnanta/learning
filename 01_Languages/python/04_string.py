@@ -3,7 +3,6 @@ print(s)
 
 print("-" * len(s))
 
-
 a = "hello world ;)"
 print(a)
 

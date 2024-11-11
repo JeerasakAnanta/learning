@@ -11,7 +11,7 @@
 | Redash        | BI analytics                  |
 | Jitsi         | Video conference              |
 | Plausible     | Google analytics alternative  |
-| Nextcloud     | Cloud storage                 |
+| Nextcloud     | Cloud storage                                                |
 | git           |                               |
 | git           |                               |
 | git           |                               |

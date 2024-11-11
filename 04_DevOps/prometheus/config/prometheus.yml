@@ -1,0 +1,10 @@
+# config/prometheus.yml
+global:
+  scrape_interval: 15s  # By default, scrape targets every 15 seconds.
+
+scrape_configs:
+  - job_name: 'prometheus'  # This job is added purely for demonstration purposes.
+    static_configs:
+      - targets: ['localhost:9090']  # The Prometheus server itself.
+
+# You can add more scrape configurations here for other services.

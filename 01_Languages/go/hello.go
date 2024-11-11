@@ -1,8 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
 func Hello(){
-  fmt.Println(message)
   message :=  fmt.Sprintf("Hello, World")
+  fmt.Println(message)
 }

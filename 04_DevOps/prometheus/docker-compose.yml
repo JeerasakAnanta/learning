@@ -1,0 +1,14 @@
+
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - '9090:9090'  # Expose port 9090 on the host.
+    volumes:
+      - ./config/prometheus.yml:/etc/prometheus/prometheus.yml  # Mount the Prometheus config file.
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'  # Specify the config file.
+      - '--web.enable-lifecycle'  # Enable the web lifecycle API.
+      - '--web.enable-admin-api'  # Enable the admin API.
+      - '--web.console.libraries=/usr/share/prometheus/console_libraries'  # Specify the path to the console libraries.
+      - '--web.console.templates=/usr/share/prometheus/consoles'  # Specify the path to the console templates.
