@@ -1,0 +1,23 @@
+[2024-11-06 17:41:54,679] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: check_disk_space_dag.check_disk_space 2023-12-24T00:00:00+00:00 [queued]>
+[2024-11-06 17:41:54,704] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: check_disk_space_dag.check_disk_space 2023-12-24T00:00:00+00:00 [queued]>
+[2024-11-06 17:41:54,704] {taskinstance.py:1095} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-06 17:41:54,705] {taskinstance.py:1096} INFO - Starting attempt 1 of 2
+[2024-11-06 17:41:54,705] {taskinstance.py:1097} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-06 17:41:54,720] {taskinstance.py:1115} INFO - Executing <Task(PythonOperator): check_disk_space> on 2023-12-24T00:00:00+00:00
+[2024-11-06 17:41:54,727] {standard_task_runner.py:52} INFO - Started process 4819 to run task
+[2024-11-06 17:41:54,733] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'check_disk_space_dag', 'check_disk_space', '2023-12-24T00:00:00+00:00', '--job-id', '101', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/hello_dag.py', '--cfg-path', '/tmp/tmpgev_v_1y', '--error-file', '/tmp/tmpe3b60nmc']
+[2024-11-06 17:41:54,734] {standard_task_runner.py:77} INFO - Job 101: Subtask check_disk_space
+[2024-11-06 17:41:54,774] {logging_mixin.py:109} INFO - Running <TaskInstance: check_disk_space_dag.check_disk_space 2023-12-24T00:00:00+00:00 [running]> on host 1d84451931cc
+[2024-11-06 17:41:54,831] {taskinstance.py:1254} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=check_disk_space_dag
+AIRFLOW_CTX_TASK_ID=check_disk_space
+AIRFLOW_CTX_EXECUTION_DATE=2023-12-24T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-12-24T00:00:00+00:00
+[2024-11-06 17:41:54,831] {logging_mixin.py:109} INFO - Free disk space on /: 123.08 GB
+[2024-11-06 17:41:54,845] {python.py:151} INFO - Done. Returned value was: None
+[2024-11-06 17:41:54,856] {taskinstance.py:1219} INFO - Marking task as SUCCESS. dag_id=check_disk_space_dag, task_id=check_disk_space, execution_date=20231224T000000, start_date=20241106T174154, end_date=20241106T174154
+[2024-11-06 17:41:54,908] {local_task_job.py:151} INFO - Task exited with return code 0
+[2024-11-06 17:41:54,936] {local_task_job.py:261} INFO - 0 downstream tasks scheduled from follow-on schedule check

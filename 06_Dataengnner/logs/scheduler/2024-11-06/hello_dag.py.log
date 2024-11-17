@@ -1,0 +1,834 @@
+[2024-11-06 17:36:25,995] {processor.py:162} INFO - Started process (PID=3948) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:36:25,996] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:36:25,996] {logging_mixin.py:109} INFO - [2024-11-06 17:36:25,996] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:36:26,001] {processor.py:625} WARNING - No viable dags retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:36:26,016] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.024 seconds
+[2024-11-06 17:36:56,232] {processor.py:162} INFO - Started process (PID=4000) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:36:56,233] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:36:56,234] {logging_mixin.py:109} INFO - [2024-11-06 17:36:56,234] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:36:56,240] {processor.py:625} WARNING - No viable dags retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:36:56,258] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.031 seconds
+[2024-11-06 17:37:27,133] {processor.py:162} INFO - Started process (PID=4062) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:37:27,134] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:37:27,134] {logging_mixin.py:109} INFO - [2024-11-06 17:37:27,134] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:37:27,141] {processor.py:625} WARNING - No viable dags retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:37:27,160] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.031 seconds
+[2024-11-06 17:37:57,404] {processor.py:162} INFO - Started process (PID=4114) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:37:57,407] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:37:57,409] {logging_mixin.py:109} INFO - [2024-11-06 17:37:57,408] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:37:57,418] {processor.py:625} WARNING - No viable dags retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:37:57,435] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.037 seconds
+[2024-11-06 17:38:27,505] {processor.py:162} INFO - Started process (PID=4176) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:38:27,507] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:38:27,509] {logging_mixin.py:109} INFO - [2024-11-06 17:38:27,508] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:38:27,523] {processor.py:625} WARNING - No viable dags retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:38:27,562] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.065 seconds
+[2024-11-06 17:38:58,249] {processor.py:162} INFO - Started process (PID=4228) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:38:58,250] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:38:58,251] {logging_mixin.py:109} INFO - [2024-11-06 17:38:58,251] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:38:58,254] {processor.py:625} WARNING - No viable dags retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:38:58,270] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.023 seconds
+[2024-11-06 17:39:28,304] {processor.py:162} INFO - Started process (PID=4290) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:39:28,305] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:39:28,306] {logging_mixin.py:109} INFO - [2024-11-06 17:39:28,306] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:39:28,313] {processor.py:625} WARNING - No viable dags retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:39:28,332] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.033 seconds
+[2024-11-06 17:39:54,354] {processor.py:162} INFO - Started process (PID=4342) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:39:54,358] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:39:54,359] {logging_mixin.py:109} INFO - [2024-11-06 17:39:54,359] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:39:54,373] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:39:56,151] {logging_mixin.py:109} INFO - [2024-11-06 17:39:56,150] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:39:56,170] {logging_mixin.py:109} INFO - [2024-11-06 17:39:56,168] {dag.py:1853} INFO - Creating ORM DAG for check_disk_space_dag
+[2024-11-06 17:39:56,176] {logging_mixin.py:109} INFO - [2024-11-06 17:39:56,176] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2023-10-01T00:00:00+00:00
+[2024-11-06 17:39:56,192] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 1.842 seconds
+[2024-11-06 17:40:05,363] {processor.py:162} INFO - Started process (PID=4373) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:40:05,365] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:40:05,366] {logging_mixin.py:109} INFO - [2024-11-06 17:40:05,365] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:40:05,381] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:40:05,400] {logging_mixin.py:109} INFO - [2024-11-06 17:40:05,400] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:40:05,414] {logging_mixin.py:109} INFO - [2024-11-06 17:40:05,414] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2023-10-01T00:00:00+00:00
+[2024-11-06 17:40:05,424] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.065 seconds
+[2024-11-06 17:40:36,413] {processor.py:162} INFO - Started process (PID=4425) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:40:36,414] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:40:36,414] {logging_mixin.py:109} INFO - [2024-11-06 17:40:36,414] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:40:36,423] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:40:36,445] {logging_mixin.py:109} INFO - [2024-11-06 17:40:36,445] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:40:36,459] {logging_mixin.py:109} INFO - [2024-11-06 17:40:36,458] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2023-10-01T00:00:00+00:00
+[2024-11-06 17:40:36,466] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.055 seconds
+[2024-11-06 17:41:06,532] {processor.py:162} INFO - Started process (PID=4487) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:41:06,536] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:41:06,536] {logging_mixin.py:109} INFO - [2024-11-06 17:41:06,536] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:41:06,551] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:41:06,584] {logging_mixin.py:109} INFO - [2024-11-06 17:41:06,584] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:41:06,603] {logging_mixin.py:109} INFO - [2024-11-06 17:41:06,602] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2023-10-01T00:00:00+00:00
+[2024-11-06 17:41:06,617] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.090 seconds
+[2024-11-06 17:41:37,529] {processor.py:162} INFO - Started process (PID=4548) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:41:37,530] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:41:37,531] {logging_mixin.py:109} INFO - [2024-11-06 17:41:37,531] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:41:37,540] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:41:37,563] {logging_mixin.py:109} INFO - [2024-11-06 17:41:37,563] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:41:37,575] {logging_mixin.py:109} INFO - [2024-11-06 17:41:37,575] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2023-10-01T00:00:00+00:00
+[2024-11-06 17:41:37,584] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.059 seconds
+[2024-11-06 17:42:07,723] {processor.py:162} INFO - Started process (PID=4605) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:42:07,724] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:42:07,725] {logging_mixin.py:109} INFO - [2024-11-06 17:42:07,725] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:42:07,735] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:42:07,759] {logging_mixin.py:109} INFO - [2024-11-06 17:42:07,759] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:42:07,775] {logging_mixin.py:109} INFO - [2024-11-06 17:42:07,775] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-03-11 00:00:00+00:00
+[2024-11-06 17:42:07,786] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.068 seconds
+[2024-11-06 17:42:37,883] {processor.py:162} INFO - Started process (PID=4657) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:42:37,884] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:42:37,885] {logging_mixin.py:109} INFO - [2024-11-06 17:42:37,885] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:42:37,898] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:42:37,920] {logging_mixin.py:109} INFO - [2024-11-06 17:42:37,920] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:42:37,936] {logging_mixin.py:109} INFO - [2024-11-06 17:42:37,935] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-08-23 00:00:00+00:00
+[2024-11-06 17:42:37,947] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.067 seconds
+[2024-11-06 17:43:08,638] {processor.py:162} INFO - Started process (PID=4715) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:43:08,641] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:43:08,642] {logging_mixin.py:109} INFO - [2024-11-06 17:43:08,642] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:43:08,657] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:43:08,688] {logging_mixin.py:109} INFO - [2024-11-06 17:43:08,688] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:43:08,705] {logging_mixin.py:109} INFO - [2024-11-06 17:43:08,705] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:43:08,715] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.082 seconds
+[2024-11-06 17:43:39,105] {processor.py:162} INFO - Started process (PID=4767) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:43:39,107] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:43:39,107] {logging_mixin.py:109} INFO - [2024-11-06 17:43:39,107] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:43:39,120] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:43:39,148] {logging_mixin.py:109} INFO - [2024-11-06 17:43:39,148] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:43:39,165] {logging_mixin.py:109} INFO - [2024-11-06 17:43:39,165] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:43:39,176] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.074 seconds
+[2024-11-06 17:44:10,109] {processor.py:162} INFO - Started process (PID=4829) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:44:10,114] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:44:10,115] {logging_mixin.py:109} INFO - [2024-11-06 17:44:10,114] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:44:10,137] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:44:10,196] {logging_mixin.py:109} INFO - [2024-11-06 17:44:10,195] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:44:10,219] {logging_mixin.py:109} INFO - [2024-11-06 17:44:10,218] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:44:10,230] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.127 seconds
+[2024-11-06 17:44:41,129] {processor.py:162} INFO - Started process (PID=4891) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:44:41,130] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:44:41,131] {logging_mixin.py:109} INFO - [2024-11-06 17:44:41,131] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:44:41,144] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:44:41,167] {logging_mixin.py:109} INFO - [2024-11-06 17:44:41,167] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:44:41,178] {logging_mixin.py:109} INFO - [2024-11-06 17:44:41,178] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:44:41,185] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.059 seconds
+[2024-11-06 17:45:11,222] {processor.py:162} INFO - Started process (PID=4942) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:45:11,226] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:45:11,227] {logging_mixin.py:109} INFO - [2024-11-06 17:45:11,227] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:45:11,241] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:45:11,272] {logging_mixin.py:109} INFO - [2024-11-06 17:45:11,272] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:45:11,290] {logging_mixin.py:109} INFO - [2024-11-06 17:45:11,290] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:45:11,301] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.083 seconds
+[2024-11-06 17:45:42,202] {processor.py:162} INFO - Started process (PID=5004) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:45:42,203] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:45:42,204] {logging_mixin.py:109} INFO - [2024-11-06 17:45:42,204] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:45:42,217] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:45:42,247] {logging_mixin.py:109} INFO - [2024-11-06 17:45:42,247] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:45:42,267] {logging_mixin.py:109} INFO - [2024-11-06 17:45:42,266] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:45:42,278] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.080 seconds
+[2024-11-06 17:46:12,377] {processor.py:162} INFO - Started process (PID=5056) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:46:12,378] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:46:12,379] {logging_mixin.py:109} INFO - [2024-11-06 17:46:12,379] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:46:12,392] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:46:12,425] {logging_mixin.py:109} INFO - [2024-11-06 17:46:12,425] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:46:12,443] {logging_mixin.py:109} INFO - [2024-11-06 17:46:12,443] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:46:12,453] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.080 seconds
+[2024-11-06 17:46:43,431] {processor.py:162} INFO - Started process (PID=5118) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:46:43,432] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:46:43,433] {logging_mixin.py:109} INFO - [2024-11-06 17:46:43,433] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:46:43,447] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:46:43,470] {logging_mixin.py:109} INFO - [2024-11-06 17:46:43,470] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:46:43,485] {logging_mixin.py:109} INFO - [2024-11-06 17:46:43,484] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:46:43,493] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.065 seconds
+[2024-11-06 17:47:14,258] {processor.py:162} INFO - Started process (PID=5170) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:14,262] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:47:14,263] {logging_mixin.py:109} INFO - [2024-11-06 17:47:14,262] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:14,278] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:14,310] {logging_mixin.py:109} INFO - [2024-11-06 17:47:14,309] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:47:14,327] {logging_mixin.py:109} INFO - [2024-11-06 17:47:14,327] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:47:14,337] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.083 seconds
+[2024-11-06 17:47:19,464] {processor.py:162} INFO - Started process (PID=5186) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:19,465] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:47:19,466] {logging_mixin.py:109} INFO - [2024-11-06 17:47:19,466] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:19,475] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:19,498] {logging_mixin.py:109} INFO - [2024-11-06 17:47:19,498] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:47:19,514] {logging_mixin.py:109} INFO - [2024-11-06 17:47:19,513] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:47:19,532] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.070 seconds
+[2024-11-06 17:47:49,605] {processor.py:162} INFO - Started process (PID=5238) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:49,606] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:47:49,606] {logging_mixin.py:109} INFO - [2024-11-06 17:47:49,606] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:49,619] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:47:49,645] {logging_mixin.py:109} INFO - [2024-11-06 17:47:49,645] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:47:49,659] {logging_mixin.py:109} INFO - [2024-11-06 17:47:49,659] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:47:49,667] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.067 seconds
+[2024-11-06 17:48:19,868] {processor.py:162} INFO - Started process (PID=5300) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:48:19,872] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:48:19,873] {logging_mixin.py:109} INFO - [2024-11-06 17:48:19,873] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:48:19,890] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:48:19,923] {logging_mixin.py:109} INFO - [2024-11-06 17:48:19,923] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:48:19,944] {logging_mixin.py:109} INFO - [2024-11-06 17:48:19,944] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:48:19,959] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.096 seconds
+[2024-11-06 17:48:50,789] {processor.py:162} INFO - Started process (PID=5352) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:48:50,791] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:48:50,792] {logging_mixin.py:109} INFO - [2024-11-06 17:48:50,792] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:48:50,804] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:48:50,825] {logging_mixin.py:109} INFO - [2024-11-06 17:48:50,825] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:48:50,844] {logging_mixin.py:109} INFO - [2024-11-06 17:48:50,844] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:48:50,854] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.069 seconds
+[2024-11-06 17:49:21,769] {processor.py:162} INFO - Started process (PID=5414) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:49:21,771] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:49:21,772] {logging_mixin.py:109} INFO - [2024-11-06 17:49:21,772] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:49:21,783] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:49:21,803] {logging_mixin.py:109} INFO - [2024-11-06 17:49:21,803] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:49:21,823] {logging_mixin.py:109} INFO - [2024-11-06 17:49:21,823] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:49:21,834] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.067 seconds
+[2024-11-06 17:49:52,132] {processor.py:162} INFO - Started process (PID=5466) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:49:52,133] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:49:52,134] {logging_mixin.py:109} INFO - [2024-11-06 17:49:52,134] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:49:52,148] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:49:52,177] {logging_mixin.py:109} INFO - [2024-11-06 17:49:52,177] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:49:52,197] {logging_mixin.py:109} INFO - [2024-11-06 17:49:52,197] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:49:52,211] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.083 seconds
+[2024-11-06 17:50:23,053] {processor.py:162} INFO - Started process (PID=5528) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:50:23,057] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:50:23,057] {logging_mixin.py:109} INFO - [2024-11-06 17:50:23,057] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:50:23,076] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:50:23,123] {logging_mixin.py:109} INFO - [2024-11-06 17:50:23,123] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:50:23,141] {logging_mixin.py:109} INFO - [2024-11-06 17:50:23,141] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:50:23,153] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.104 seconds
+[2024-11-06 17:50:53,845] {processor.py:162} INFO - Started process (PID=5580) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:50:53,846] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:50:53,847] {logging_mixin.py:109} INFO - [2024-11-06 17:50:53,847] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:50:53,861] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:50:53,893] {logging_mixin.py:109} INFO - [2024-11-06 17:50:53,893] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:50:53,914] {logging_mixin.py:109} INFO - [2024-11-06 17:50:53,914] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:50:53,929] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.088 seconds
+[2024-11-06 17:51:24,088] {processor.py:162} INFO - Started process (PID=5642) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:51:24,090] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:51:24,091] {logging_mixin.py:109} INFO - [2024-11-06 17:51:24,091] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:51:24,108] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:51:24,132] {logging_mixin.py:109} INFO - [2024-11-06 17:51:24,132] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:51:24,149] {logging_mixin.py:109} INFO - [2024-11-06 17:51:24,149] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:51:24,158] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.074 seconds
+[2024-11-06 17:51:54,417] {processor.py:162} INFO - Started process (PID=5694) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:51:54,419] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:51:54,421] {logging_mixin.py:109} INFO - [2024-11-06 17:51:54,421] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:51:54,443] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:51:54,474] {logging_mixin.py:109} INFO - [2024-11-06 17:51:54,473] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:51:54,493] {logging_mixin.py:109} INFO - [2024-11-06 17:51:54,492] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:51:54,503] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.091 seconds
+[2024-11-06 17:52:24,553] {processor.py:162} INFO - Started process (PID=5746) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:52:24,556] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:52:24,557] {logging_mixin.py:109} INFO - [2024-11-06 17:52:24,557] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:52:24,578] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:52:24,611] {logging_mixin.py:109} INFO - [2024-11-06 17:52:24,611] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:52:24,631] {logging_mixin.py:109} INFO - [2024-11-06 17:52:24,631] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:52:24,646] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.097 seconds
+[2024-11-06 17:52:54,687] {processor.py:162} INFO - Started process (PID=5808) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:52:54,688] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:52:54,689] {logging_mixin.py:109} INFO - [2024-11-06 17:52:54,689] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:52:54,706] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:52:54,746] {logging_mixin.py:109} INFO - [2024-11-06 17:52:54,746] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:52:54,764] {logging_mixin.py:109} INFO - [2024-11-06 17:52:54,764] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:52:54,771] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.090 seconds
+[2024-11-06 17:53:25,753] {processor.py:162} INFO - Started process (PID=5860) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:53:25,758] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:53:25,760] {logging_mixin.py:109} INFO - [2024-11-06 17:53:25,759] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:53:25,781] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:53:25,817] {logging_mixin.py:109} INFO - [2024-11-06 17:53:25,817] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:53:25,836] {logging_mixin.py:109} INFO - [2024-11-06 17:53:25,836] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:53:25,845] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.097 seconds
+[2024-11-06 17:53:55,998] {processor.py:162} INFO - Started process (PID=5922) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:53:55,999] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:53:56,001] {logging_mixin.py:109} INFO - [2024-11-06 17:53:56,000] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:53:56,016] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:53:56,049] {logging_mixin.py:109} INFO - [2024-11-06 17:53:56,049] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:53:56,070] {logging_mixin.py:109} INFO - [2024-11-06 17:53:56,070] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:53:56,083] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.090 seconds
+[2024-11-06 17:54:26,357] {processor.py:162} INFO - Started process (PID=5974) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:54:26,361] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:54:26,362] {logging_mixin.py:109} INFO - [2024-11-06 17:54:26,362] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:54:26,380] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:54:26,413] {logging_mixin.py:109} INFO - [2024-11-06 17:54:26,413] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:54:26,434] {logging_mixin.py:109} INFO - [2024-11-06 17:54:26,434] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:54:26,446] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.094 seconds
+[2024-11-06 17:54:57,344] {processor.py:162} INFO - Started process (PID=6037) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:54:57,345] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:54:57,346] {logging_mixin.py:109} INFO - [2024-11-06 17:54:57,345] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:54:57,364] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:54:57,389] {logging_mixin.py:109} INFO - [2024-11-06 17:54:57,388] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:54:57,404] {logging_mixin.py:109} INFO - [2024-11-06 17:54:57,403] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:54:57,413] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.075 seconds
+[2024-11-06 17:55:27,531] {processor.py:162} INFO - Started process (PID=6089) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:55:27,535] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:55:27,535] {logging_mixin.py:109} INFO - [2024-11-06 17:55:27,535] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:55:27,555] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:55:27,603] {logging_mixin.py:109} INFO - [2024-11-06 17:55:27,603] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:55:27,627] {logging_mixin.py:109} INFO - [2024-11-06 17:55:27,627] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:55:27,641] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.112 seconds
+[2024-11-06 17:55:58,094] {processor.py:162} INFO - Started process (PID=6151) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:55:58,095] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:55:58,096] {logging_mixin.py:109} INFO - [2024-11-06 17:55:58,096] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:55:58,111] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:55:58,143] {logging_mixin.py:109} INFO - [2024-11-06 17:55:58,143] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:55:58,165] {logging_mixin.py:109} INFO - [2024-11-06 17:55:58,165] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:55:58,175] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.085 seconds
+[2024-11-06 17:56:28,458] {processor.py:162} INFO - Started process (PID=6203) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:56:28,461] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:56:28,462] {logging_mixin.py:109} INFO - [2024-11-06 17:56:28,462] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:56:28,471] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:56:28,494] {logging_mixin.py:109} INFO - [2024-11-06 17:56:28,494] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:56:28,509] {logging_mixin.py:109} INFO - [2024-11-06 17:56:28,509] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:56:28,523] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.068 seconds
+[2024-11-06 17:56:59,264] {processor.py:162} INFO - Started process (PID=6265) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:56:59,265] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:56:59,267] {logging_mixin.py:109} INFO - [2024-11-06 17:56:59,266] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:56:59,285] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:56:59,332] {logging_mixin.py:109} INFO - [2024-11-06 17:56:59,332] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:56:59,363] {logging_mixin.py:109} INFO - [2024-11-06 17:56:59,363] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:56:59,378] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.119 seconds
+[2024-11-06 17:57:30,112] {processor.py:162} INFO - Started process (PID=6317) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:57:30,115] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:57:30,116] {logging_mixin.py:109} INFO - [2024-11-06 17:57:30,116] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:57:30,125] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:57:30,143] {logging_mixin.py:109} INFO - [2024-11-06 17:57:30,143] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:57:30,159] {logging_mixin.py:109} INFO - [2024-11-06 17:57:30,159] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:57:30,172] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.064 seconds
+[2024-11-06 17:58:00,896] {processor.py:162} INFO - Started process (PID=6379) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:58:00,897] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:58:00,898] {logging_mixin.py:109} INFO - [2024-11-06 17:58:00,897] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:58:00,917] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:58:00,945] {logging_mixin.py:109} INFO - [2024-11-06 17:58:00,945] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:58:00,959] {logging_mixin.py:109} INFO - [2024-11-06 17:58:00,959] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:58:00,969] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.079 seconds
+[2024-11-06 17:58:31,720] {processor.py:162} INFO - Started process (PID=6431) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:58:31,725] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:58:31,726] {logging_mixin.py:109} INFO - [2024-11-06 17:58:31,725] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:58:31,740] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:58:31,774] {logging_mixin.py:109} INFO - [2024-11-06 17:58:31,774] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:58:31,792] {logging_mixin.py:109} INFO - [2024-11-06 17:58:31,792] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:58:31,803] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.087 seconds
+[2024-11-06 17:59:01,903] {processor.py:162} INFO - Started process (PID=6492) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:59:01,905] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:59:01,906] {logging_mixin.py:109} INFO - [2024-11-06 17:59:01,906] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:59:01,932] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:59:01,979] {logging_mixin.py:109} INFO - [2024-11-06 17:59:01,979] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:59:01,994] {logging_mixin.py:109} INFO - [2024-11-06 17:59:01,994] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:59:02,007] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.110 seconds
+[2024-11-06 17:59:32,103] {processor.py:162} INFO - Started process (PID=6544) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:59:32,107] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 17:59:32,108] {logging_mixin.py:109} INFO - [2024-11-06 17:59:32,108] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:59:32,125] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 17:59:32,156] {logging_mixin.py:109} INFO - [2024-11-06 17:59:32,156] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 17:59:32,178] {logging_mixin.py:109} INFO - [2024-11-06 17:59:32,177] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 17:59:32,190] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.091 seconds
+[2024-11-06 18:00:03,031] {processor.py:162} INFO - Started process (PID=6606) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:00:03,032] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:00:03,033] {logging_mixin.py:109} INFO - [2024-11-06 18:00:03,033] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:00:03,044] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:00:03,064] {logging_mixin.py:109} INFO - [2024-11-06 18:00:03,064] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:00:03,083] {logging_mixin.py:109} INFO - [2024-11-06 18:00:03,083] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:00:03,093] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.065 seconds
+[2024-11-06 18:00:33,683] {processor.py:162} INFO - Started process (PID=6658) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:00:33,687] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:00:33,688] {logging_mixin.py:109} INFO - [2024-11-06 18:00:33,688] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:00:33,702] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:00:33,734] {logging_mixin.py:109} INFO - [2024-11-06 18:00:33,733] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:00:33,758] {logging_mixin.py:109} INFO - [2024-11-06 18:00:33,758] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:00:33,773] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.094 seconds
+[2024-11-06 18:01:04,599] {processor.py:162} INFO - Started process (PID=6720) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:01:04,600] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:01:04,601] {logging_mixin.py:109} INFO - [2024-11-06 18:01:04,600] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:01:04,616] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:01:04,644] {logging_mixin.py:109} INFO - [2024-11-06 18:01:04,644] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:01:04,660] {logging_mixin.py:109} INFO - [2024-11-06 18:01:04,660] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:01:04,667] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.072 seconds
+[2024-11-06 18:01:35,594] {processor.py:162} INFO - Started process (PID=6772) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:01:35,598] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:01:35,599] {logging_mixin.py:109} INFO - [2024-11-06 18:01:35,599] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:01:35,613] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:01:35,643] {logging_mixin.py:109} INFO - [2024-11-06 18:01:35,643] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:01:35,662] {logging_mixin.py:109} INFO - [2024-11-06 18:01:35,662] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:01:35,673] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.083 seconds
+[2024-11-06 18:02:06,405] {processor.py:162} INFO - Started process (PID=6834) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:02:06,406] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:02:06,407] {logging_mixin.py:109} INFO - [2024-11-06 18:02:06,407] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:02:06,420] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:02:06,457] {logging_mixin.py:109} INFO - [2024-11-06 18:02:06,457] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:02:06,476] {logging_mixin.py:109} INFO - [2024-11-06 18:02:06,476] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:02:06,486] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.085 seconds
+[2024-11-06 18:02:37,470] {processor.py:162} INFO - Started process (PID=6886) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:02:37,474] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:02:37,474] {logging_mixin.py:109} INFO - [2024-11-06 18:02:37,474] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:02:37,488] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:02:37,531] {logging_mixin.py:109} INFO - [2024-11-06 18:02:37,531] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:02:37,555] {logging_mixin.py:109} INFO - [2024-11-06 18:02:37,555] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:02:37,566] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.100 seconds
+[2024-11-06 18:03:07,590] {processor.py:162} INFO - Started process (PID=6948) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:03:07,591] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:03:07,592] {logging_mixin.py:109} INFO - [2024-11-06 18:03:07,592] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:03:07,601] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:03:07,627] {logging_mixin.py:109} INFO - [2024-11-06 18:03:07,627] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:03:07,647] {logging_mixin.py:109} INFO - [2024-11-06 18:03:07,646] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:03:07,661] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.074 seconds
+[2024-11-06 18:03:37,953] {processor.py:162} INFO - Started process (PID=7000) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:03:37,956] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:03:37,957] {logging_mixin.py:109} INFO - [2024-11-06 18:03:37,956] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:03:37,972] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:03:38,003] {logging_mixin.py:109} INFO - [2024-11-06 18:03:38,003] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:03:38,021] {logging_mixin.py:109} INFO - [2024-11-06 18:03:38,021] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:03:38,032] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.084 seconds
+[2024-11-06 18:04:08,255] {processor.py:162} INFO - Started process (PID=7063) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:04:08,257] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:04:08,257] {logging_mixin.py:109} INFO - [2024-11-06 18:04:08,257] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:04:08,267] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:04:08,288] {logging_mixin.py:109} INFO - [2024-11-06 18:04:08,288] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:04:08,304] {logging_mixin.py:109} INFO - [2024-11-06 18:04:08,304] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:04:08,313] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.061 seconds
+[2024-11-06 18:04:38,430] {processor.py:162} INFO - Started process (PID=7116) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:04:38,432] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:04:38,433] {logging_mixin.py:109} INFO - [2024-11-06 18:04:38,432] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:04:38,445] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:04:38,475] {logging_mixin.py:109} INFO - [2024-11-06 18:04:38,475] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:04:38,490] {logging_mixin.py:109} INFO - [2024-11-06 18:04:38,490] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:04:38,500] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.075 seconds
+[2024-11-06 18:05:08,713] {processor.py:162} INFO - Started process (PID=7178) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:05:08,714] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:05:08,715] {logging_mixin.py:109} INFO - [2024-11-06 18:05:08,714] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:05:08,729] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:05:08,763] {logging_mixin.py:109} INFO - [2024-11-06 18:05:08,763] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:05:08,781] {logging_mixin.py:109} INFO - [2024-11-06 18:05:08,781] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:05:08,796] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.087 seconds
+[2024-11-06 18:05:38,852] {processor.py:162} INFO - Started process (PID=7231) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:05:38,856] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:05:38,857] {logging_mixin.py:109} INFO - [2024-11-06 18:05:38,856] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:05:38,876] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:05:38,904] {logging_mixin.py:109} INFO - [2024-11-06 18:05:38,904] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:05:38,923] {logging_mixin.py:109} INFO - [2024-11-06 18:05:38,922] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:05:38,934] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.085 seconds
+[2024-11-06 18:06:08,994] {processor.py:162} INFO - Started process (PID=7293) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:06:08,996] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:06:08,997] {logging_mixin.py:109} INFO - [2024-11-06 18:06:08,996] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:06:09,011] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:06:09,032] {logging_mixin.py:109} INFO - [2024-11-06 18:06:09,032] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:06:09,047] {logging_mixin.py:109} INFO - [2024-11-06 18:06:09,047] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:06:09,055] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.066 seconds
+[2024-11-06 18:06:39,469] {processor.py:162} INFO - Started process (PID=7345) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:06:39,470] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:06:39,470] {logging_mixin.py:109} INFO - [2024-11-06 18:06:39,470] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:06:39,490] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:06:39,525] {logging_mixin.py:109} INFO - [2024-11-06 18:06:39,524] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:06:39,544] {logging_mixin.py:109} INFO - [2024-11-06 18:06:39,543] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:06:39,554] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.088 seconds
+[2024-11-06 18:07:09,598] {processor.py:162} INFO - Started process (PID=7407) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:07:09,599] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:07:09,600] {logging_mixin.py:109} INFO - [2024-11-06 18:07:09,599] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:07:09,612] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:07:09,641] {logging_mixin.py:109} INFO - [2024-11-06 18:07:09,640] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:07:09,657] {logging_mixin.py:109} INFO - [2024-11-06 18:07:09,657] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:07:09,668] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.075 seconds
+[2024-11-06 18:07:40,400] {processor.py:162} INFO - Started process (PID=7459) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:07:40,404] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:07:40,405] {logging_mixin.py:109} INFO - [2024-11-06 18:07:40,405] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:07:40,420] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:07:40,455] {logging_mixin.py:109} INFO - [2024-11-06 18:07:40,455] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:07:40,473] {logging_mixin.py:109} INFO - [2024-11-06 18:07:40,473] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:07:40,484] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.090 seconds
+[2024-11-06 18:08:10,618] {processor.py:162} INFO - Started process (PID=7521) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:08:10,619] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:08:10,620] {logging_mixin.py:109} INFO - [2024-11-06 18:08:10,619] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:08:10,629] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:08:10,653] {logging_mixin.py:109} INFO - [2024-11-06 18:08:10,652] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:08:10,664] {logging_mixin.py:109} INFO - [2024-11-06 18:08:10,664] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:08:10,672] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.057 seconds
+[2024-11-06 18:08:40,920] {processor.py:162} INFO - Started process (PID=7573) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:08:40,924] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:08:40,924] {logging_mixin.py:109} INFO - [2024-11-06 18:08:40,924] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:08:40,937] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:08:40,970] {logging_mixin.py:109} INFO - [2024-11-06 18:08:40,970] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:08:40,985] {logging_mixin.py:109} INFO - [2024-11-06 18:08:40,985] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:08:40,996] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.080 seconds
+[2024-11-06 18:09:11,036] {processor.py:162} INFO - Started process (PID=7635) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:09:11,038] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:09:11,038] {logging_mixin.py:109} INFO - [2024-11-06 18:09:11,038] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:09:11,050] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:09:11,076] {logging_mixin.py:109} INFO - [2024-11-06 18:09:11,076] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:09:11,092] {logging_mixin.py:109} INFO - [2024-11-06 18:09:11,092] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:09:11,102] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.070 seconds
+[2024-11-06 18:09:41,836] {processor.py:162} INFO - Started process (PID=7687) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:09:41,840] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:09:41,841] {logging_mixin.py:109} INFO - [2024-11-06 18:09:41,840] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:09:41,856] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:09:41,895] {logging_mixin.py:109} INFO - [2024-11-06 18:09:41,895] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:09:41,926] {logging_mixin.py:109} INFO - [2024-11-06 18:09:41,926] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:09:41,940] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.108 seconds
+[2024-11-06 18:10:11,985] {processor.py:162} INFO - Started process (PID=7749) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:10:11,986] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:10:11,986] {logging_mixin.py:109} INFO - [2024-11-06 18:10:11,986] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:10:11,994] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:10:12,018] {logging_mixin.py:109} INFO - [2024-11-06 18:10:12,018] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:10:12,032] {logging_mixin.py:109} INFO - [2024-11-06 18:10:12,032] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:10:12,042] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.060 seconds
+[2024-11-06 18:10:43,033] {processor.py:162} INFO - Started process (PID=7801) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:10:43,036] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:10:43,037] {logging_mixin.py:109} INFO - [2024-11-06 18:10:43,037] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:10:43,046] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:10:43,069] {logging_mixin.py:109} INFO - [2024-11-06 18:10:43,069] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:10:43,081] {logging_mixin.py:109} INFO - [2024-11-06 18:10:43,080] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:10:43,089] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.060 seconds
+[2024-11-06 18:11:13,372] {processor.py:162} INFO - Started process (PID=7863) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:11:13,373] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:11:13,373] {logging_mixin.py:109} INFO - [2024-11-06 18:11:13,373] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:11:13,384] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:11:13,411] {logging_mixin.py:109} INFO - [2024-11-06 18:11:13,411] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:11:13,427] {logging_mixin.py:109} INFO - [2024-11-06 18:11:13,427] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:11:13,435] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.066 seconds
+[2024-11-06 18:11:43,714] {processor.py:162} INFO - Started process (PID=7914) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:11:43,716] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:11:43,717] {logging_mixin.py:109} INFO - [2024-11-06 18:11:43,717] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:11:43,732] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:11:43,758] {logging_mixin.py:109} INFO - [2024-11-06 18:11:43,758] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:11:43,779] {logging_mixin.py:109} INFO - [2024-11-06 18:11:43,778] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:11:43,791] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.084 seconds
+[2024-11-06 18:12:14,093] {processor.py:162} INFO - Started process (PID=7968) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:12:14,095] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:12:14,096] {logging_mixin.py:109} INFO - [2024-11-06 18:12:14,096] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:12:14,112] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:12:14,138] {logging_mixin.py:109} INFO - [2024-11-06 18:12:14,138] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:12:14,153] {logging_mixin.py:109} INFO - [2024-11-06 18:12:14,153] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:12:14,160] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.073 seconds
+[2024-11-06 18:12:44,281] {processor.py:162} INFO - Started process (PID=8021) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:12:44,283] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:12:44,284] {logging_mixin.py:109} INFO - [2024-11-06 18:12:44,283] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:12:44,294] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:12:44,317] {logging_mixin.py:109} INFO - [2024-11-06 18:12:44,316] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:12:44,331] {logging_mixin.py:109} INFO - [2024-11-06 18:12:44,331] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:12:44,341] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.063 seconds
+[2024-11-06 18:13:14,372] {processor.py:162} INFO - Started process (PID=8082) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:13:14,373] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:13:14,373] {logging_mixin.py:109} INFO - [2024-11-06 18:13:14,373] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:13:14,383] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:13:14,404] {logging_mixin.py:109} INFO - [2024-11-06 18:13:14,404] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:13:14,420] {logging_mixin.py:109} INFO - [2024-11-06 18:13:14,420] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:13:14,431] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.061 seconds
+[2024-11-06 18:13:45,060] {processor.py:162} INFO - Started process (PID=8129) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:13:45,062] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:13:45,063] {logging_mixin.py:109} INFO - [2024-11-06 18:13:45,063] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:13:45,076] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:13:45,105] {logging_mixin.py:109} INFO - [2024-11-06 18:13:45,105] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:13:45,123] {logging_mixin.py:109} INFO - [2024-11-06 18:13:45,123] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:13:45,136] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.080 seconds
+[2024-11-06 18:14:15,298] {processor.py:162} INFO - Started process (PID=8188) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:14:15,299] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:14:15,300] {logging_mixin.py:109} INFO - [2024-11-06 18:14:15,300] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:14:15,312] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:14:15,340] {logging_mixin.py:109} INFO - [2024-11-06 18:14:15,340] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:14:15,358] {logging_mixin.py:109} INFO - [2024-11-06 18:14:15,357] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:14:15,369] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.073 seconds
+[2024-11-06 18:14:45,513] {processor.py:162} INFO - Started process (PID=8241) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:14:45,514] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:14:45,514] {logging_mixin.py:109} INFO - [2024-11-06 18:14:45,514] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:14:45,523] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:14:45,549] {logging_mixin.py:109} INFO - [2024-11-06 18:14:45,549] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:14:45,566] {logging_mixin.py:109} INFO - [2024-11-06 18:14:45,566] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:14:45,576] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.066 seconds
+[2024-11-06 18:15:16,372] {processor.py:162} INFO - Started process (PID=8300) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:15:16,373] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:15:16,373] {logging_mixin.py:109} INFO - [2024-11-06 18:15:16,373] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:15:16,382] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:15:16,408] {logging_mixin.py:109} INFO - [2024-11-06 18:15:16,407] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:15:16,424] {logging_mixin.py:109} INFO - [2024-11-06 18:15:16,424] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:15:16,433] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.064 seconds
+[2024-11-06 18:15:46,614] {processor.py:162} INFO - Started process (PID=8353) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:15:46,615] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:15:46,616] {logging_mixin.py:109} INFO - [2024-11-06 18:15:46,616] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:15:46,630] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:15:46,658] {logging_mixin.py:109} INFO - [2024-11-06 18:15:46,657] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:15:46,676] {logging_mixin.py:109} INFO - [2024-11-06 18:15:46,675] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:15:46,690] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.079 seconds
+[2024-11-06 18:16:17,003] {processor.py:162} INFO - Started process (PID=8403) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:16:17,006] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:16:17,007] {logging_mixin.py:109} INFO - [2024-11-06 18:16:17,007] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:16:17,022] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:16:17,048] {logging_mixin.py:109} INFO - [2024-11-06 18:16:17,048] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:16:17,064] {logging_mixin.py:109} INFO - [2024-11-06 18:16:17,064] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:16:17,074] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.074 seconds
+[2024-11-06 18:16:47,908] {processor.py:162} INFO - Started process (PID=8458) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:16:47,911] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:16:47,913] {logging_mixin.py:109} INFO - [2024-11-06 18:16:47,912] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:16:47,944] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:16:47,977] {logging_mixin.py:109} INFO - [2024-11-06 18:16:47,977] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:16:48,000] {logging_mixin.py:109} INFO - [2024-11-06 18:16:48,000] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:16:48,014] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.116 seconds
+[2024-11-06 18:17:18,071] {processor.py:162} INFO - Started process (PID=8519) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:17:18,074] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:17:18,075] {logging_mixin.py:109} INFO - [2024-11-06 18:17:18,075] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:17:18,089] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:17:18,109] {logging_mixin.py:109} INFO - [2024-11-06 18:17:18,109] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:17:18,120] {logging_mixin.py:109} INFO - [2024-11-06 18:17:18,120] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:17:18,126] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.058 seconds
+[2024-11-06 18:17:48,389] {processor.py:162} INFO - Started process (PID=8572) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:17:48,390] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:17:48,390] {logging_mixin.py:109} INFO - [2024-11-06 18:17:48,390] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:17:48,400] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:17:48,428] {logging_mixin.py:109} INFO - [2024-11-06 18:17:48,428] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:17:48,449] {logging_mixin.py:109} INFO - [2024-11-06 18:17:48,448] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:17:48,459] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.074 seconds
+[2024-11-06 18:18:18,793] {processor.py:162} INFO - Started process (PID=8634) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:18:18,794] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:18:18,794] {logging_mixin.py:109} INFO - [2024-11-06 18:18:18,794] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:18:18,803] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:18:18,827] {logging_mixin.py:109} INFO - [2024-11-06 18:18:18,827] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:18:18,839] {logging_mixin.py:109} INFO - [2024-11-06 18:18:18,839] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:18:18,846] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.055 seconds
+[2024-11-06 18:18:49,086] {processor.py:162} INFO - Started process (PID=8686) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:18:49,088] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:18:49,089] {logging_mixin.py:109} INFO - [2024-11-06 18:18:49,089] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:18:49,100] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:18:49,127] {logging_mixin.py:109} INFO - [2024-11-06 18:18:49,126] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:18:49,138] {logging_mixin.py:109} INFO - [2024-11-06 18:18:49,138] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:18:49,145] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.063 seconds
+[2024-11-06 18:19:19,395] {processor.py:162} INFO - Started process (PID=8748) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:19:19,399] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:19:19,400] {logging_mixin.py:109} INFO - [2024-11-06 18:19:19,400] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:19:19,415] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:19:19,440] {logging_mixin.py:109} INFO - [2024-11-06 18:19:19,440] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:19:19,455] {logging_mixin.py:109} INFO - [2024-11-06 18:19:19,455] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:19:19,462] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.072 seconds
+[2024-11-06 18:19:49,562] {processor.py:162} INFO - Started process (PID=8800) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:19:49,562] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:19:49,563] {logging_mixin.py:109} INFO - [2024-11-06 18:19:49,563] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:19:49,572] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:19:49,598] {logging_mixin.py:109} INFO - [2024-11-06 18:19:49,598] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:19:49,612] {logging_mixin.py:109} INFO - [2024-11-06 18:19:49,612] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:19:49,623] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.065 seconds
+[2024-11-06 18:20:19,964] {processor.py:162} INFO - Started process (PID=8862) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:20:19,966] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:20:19,966] {logging_mixin.py:109} INFO - [2024-11-06 18:20:19,966] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:20:19,980] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:20:20,005] {logging_mixin.py:109} INFO - [2024-11-06 18:20:20,005] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:20:20,017] {logging_mixin.py:109} INFO - [2024-11-06 18:20:20,017] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:20:20,024] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.063 seconds
+[2024-11-06 18:20:50,222] {processor.py:162} INFO - Started process (PID=8914) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:20:50,223] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:20:50,223] {logging_mixin.py:109} INFO - [2024-11-06 18:20:50,223] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:20:50,236] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:20:50,267] {logging_mixin.py:109} INFO - [2024-11-06 18:20:50,267] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:20:50,287] {logging_mixin.py:109} INFO - [2024-11-06 18:20:50,286] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:20:50,297] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.079 seconds
+[2024-11-06 18:21:20,381] {processor.py:162} INFO - Started process (PID=8975) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:21:20,384] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:21:20,385] {logging_mixin.py:109} INFO - [2024-11-06 18:21:20,385] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:21:20,395] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:21:20,412] {logging_mixin.py:109} INFO - [2024-11-06 18:21:20,412] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:21:20,423] {logging_mixin.py:109} INFO - [2024-11-06 18:21:20,423] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:21:20,430] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.052 seconds
+[2024-11-06 18:21:50,593] {processor.py:162} INFO - Started process (PID=9028) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:21:50,594] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:21:50,595] {logging_mixin.py:109} INFO - [2024-11-06 18:21:50,595] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:21:50,619] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:21:50,647] {logging_mixin.py:109} INFO - [2024-11-06 18:21:50,647] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:21:50,659] {logging_mixin.py:109} INFO - [2024-11-06 18:21:50,658] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:21:50,665] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.076 seconds
+[2024-11-06 18:22:21,203] {processor.py:162} INFO - Started process (PID=9089) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:22:21,205] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:22:21,205] {logging_mixin.py:109} INFO - [2024-11-06 18:22:21,205] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:22:21,220] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:22:21,246] {logging_mixin.py:109} INFO - [2024-11-06 18:22:21,246] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:22:21,262] {logging_mixin.py:109} INFO - [2024-11-06 18:22:21,262] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:22:21,273] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.074 seconds
+[2024-11-06 18:22:51,549] {processor.py:162} INFO - Started process (PID=9142) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:22:51,552] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:22:51,554] {logging_mixin.py:109} INFO - [2024-11-06 18:22:51,554] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:22:51,583] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:22:51,612] {logging_mixin.py:109} INFO - [2024-11-06 18:22:51,612] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:22:51,644] {logging_mixin.py:109} INFO - [2024-11-06 18:22:51,643] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:22:51,665] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.126 seconds
+[2024-11-06 18:23:21,920] {processor.py:162} INFO - Started process (PID=9194) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:23:21,924] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:23:21,925] {logging_mixin.py:109} INFO - [2024-11-06 18:23:21,924] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:23:21,940] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:23:21,982] {logging_mixin.py:109} INFO - [2024-11-06 18:23:21,982] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:23:22,005] {logging_mixin.py:109} INFO - [2024-11-06 18:23:22,005] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:23:22,019] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.103 seconds
+[2024-11-06 18:23:52,158] {processor.py:162} INFO - Started process (PID=9256) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:23:52,160] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:23:52,161] {logging_mixin.py:109} INFO - [2024-11-06 18:23:52,161] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:23:52,181] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:23:52,216] {logging_mixin.py:109} INFO - [2024-11-06 18:23:52,216] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:23:52,236] {logging_mixin.py:109} INFO - [2024-11-06 18:23:52,236] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:23:52,251] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.098 seconds
+[2024-11-06 18:24:22,357] {processor.py:162} INFO - Started process (PID=9308) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:24:22,360] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:24:22,360] {logging_mixin.py:109} INFO - [2024-11-06 18:24:22,360] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:24:22,370] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:24:22,386] {logging_mixin.py:109} INFO - [2024-11-06 18:24:22,386] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:24:22,397] {logging_mixin.py:109} INFO - [2024-11-06 18:24:22,397] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:24:22,403] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.050 seconds
+[2024-11-06 18:24:52,701] {processor.py:162} INFO - Started process (PID=9371) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:24:52,702] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:24:52,703] {logging_mixin.py:109} INFO - [2024-11-06 18:24:52,703] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:24:52,718] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:24:52,748] {logging_mixin.py:109} INFO - [2024-11-06 18:24:52,748] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:24:52,762] {logging_mixin.py:109} INFO - [2024-11-06 18:24:52,762] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:24:52,768] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.072 seconds
+[2024-11-06 18:25:23,261] {processor.py:162} INFO - Started process (PID=9423) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:25:23,265] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:25:23,266] {logging_mixin.py:109} INFO - [2024-11-06 18:25:23,266] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:25:23,284] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:25:23,320] {logging_mixin.py:109} INFO - [2024-11-06 18:25:23,320] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:25:23,340] {logging_mixin.py:109} INFO - [2024-11-06 18:25:23,340] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:25:23,353] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.097 seconds
+[2024-11-06 18:25:53,417] {processor.py:162} INFO - Started process (PID=9482) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:25:53,418] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:25:53,419] {logging_mixin.py:109} INFO - [2024-11-06 18:25:53,419] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:25:53,432] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:25:53,454] {logging_mixin.py:109} INFO - [2024-11-06 18:25:53,454] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:25:53,469] {logging_mixin.py:109} INFO - [2024-11-06 18:25:53,469] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:25:53,479] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.065 seconds
+[2024-11-06 18:26:23,565] {processor.py:162} INFO - Started process (PID=9537) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:26:23,569] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:26:23,570] {logging_mixin.py:109} INFO - [2024-11-06 18:26:23,570] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:26:23,587] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:26:23,615] {logging_mixin.py:109} INFO - [2024-11-06 18:26:23,615] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:26:23,636] {logging_mixin.py:109} INFO - [2024-11-06 18:26:23,636] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:26:23,647] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.088 seconds
+[2024-11-06 18:26:53,800] {processor.py:162} INFO - Started process (PID=9590) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:26:53,802] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:26:53,804] {logging_mixin.py:109} INFO - [2024-11-06 18:26:53,803] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:26:53,826] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:26:53,862] {logging_mixin.py:109} INFO - [2024-11-06 18:26:53,862] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:26:53,883] {logging_mixin.py:109} INFO - [2024-11-06 18:26:53,883] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:26:53,894] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.099 seconds
+[2024-11-06 18:27:24,696] {processor.py:162} INFO - Started process (PID=9652) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:27:24,700] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:27:24,702] {logging_mixin.py:109} INFO - [2024-11-06 18:27:24,701] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:27:24,719] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:27:24,753] {logging_mixin.py:109} INFO - [2024-11-06 18:27:24,753] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:27:24,776] {logging_mixin.py:109} INFO - [2024-11-06 18:27:24,776] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:27:24,792] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.100 seconds
+[2024-11-06 18:27:55,068] {processor.py:162} INFO - Started process (PID=9703) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:27:55,069] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:27:55,070] {logging_mixin.py:109} INFO - [2024-11-06 18:27:55,070] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:27:55,091] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:27:55,148] {logging_mixin.py:109} INFO - [2024-11-06 18:27:55,148] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:27:55,178] {logging_mixin.py:109} INFO - [2024-11-06 18:27:55,177] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:27:55,190] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.130 seconds
+[2024-11-06 18:28:25,787] {processor.py:162} INFO - Started process (PID=9765) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:28:25,790] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:28:25,791] {logging_mixin.py:109} INFO - [2024-11-06 18:28:25,791] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:28:25,813] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:28:25,840] {logging_mixin.py:109} INFO - [2024-11-06 18:28:25,840] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:28:25,859] {logging_mixin.py:109} INFO - [2024-11-06 18:28:25,859] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:28:25,871] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.088 seconds
+[2024-11-06 18:28:56,178] {processor.py:162} INFO - Started process (PID=9817) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:28:56,180] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:28:56,181] {logging_mixin.py:109} INFO - [2024-11-06 18:28:56,181] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:28:56,191] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:28:56,219] {logging_mixin.py:109} INFO - [2024-11-06 18:28:56,219] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:28:56,233] {logging_mixin.py:109} INFO - [2024-11-06 18:28:56,233] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:28:56,244] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.071 seconds
+[2024-11-06 18:29:26,631] {processor.py:162} INFO - Started process (PID=9879) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:29:26,634] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:29:26,635] {logging_mixin.py:109} INFO - [2024-11-06 18:29:26,634] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:29:26,649] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:29:26,686] {logging_mixin.py:109} INFO - [2024-11-06 18:29:26,686] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:29:26,700] {logging_mixin.py:109} INFO - [2024-11-06 18:29:26,700] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:29:26,709] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.082 seconds
+[2024-11-06 18:29:56,953] {processor.py:162} INFO - Started process (PID=9933) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:29:56,954] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:29:56,955] {logging_mixin.py:109} INFO - [2024-11-06 18:29:56,955] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:29:56,974] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:29:57,003] {logging_mixin.py:109} INFO - [2024-11-06 18:29:57,003] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:29:57,022] {logging_mixin.py:109} INFO - [2024-11-06 18:29:57,022] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:29:57,036] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.088 seconds
+[2024-11-06 18:30:27,873] {processor.py:162} INFO - Started process (PID=9993) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:30:27,874] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:30:27,875] {logging_mixin.py:109} INFO - [2024-11-06 18:30:27,875] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:30:27,886] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:30:27,911] {logging_mixin.py:109} INFO - [2024-11-06 18:30:27,911] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:30:27,928] {logging_mixin.py:109} INFO - [2024-11-06 18:30:27,928] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:30:27,938] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.067 seconds
+[2024-11-06 18:30:58,088] {processor.py:162} INFO - Started process (PID=10046) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:30:58,090] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:30:58,091] {logging_mixin.py:109} INFO - [2024-11-06 18:30:58,091] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:30:58,115] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:30:58,145] {logging_mixin.py:109} INFO - [2024-11-06 18:30:58,144] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:30:58,164] {logging_mixin.py:109} INFO - [2024-11-06 18:30:58,164] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:30:58,179] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.096 seconds
+[2024-11-06 18:31:28,439] {processor.py:162} INFO - Started process (PID=10105) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:31:28,441] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:31:28,442] {logging_mixin.py:109} INFO - [2024-11-06 18:31:28,442] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:31:28,452] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:31:28,480] {logging_mixin.py:109} INFO - [2024-11-06 18:31:28,480] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:31:28,496] {logging_mixin.py:109} INFO - [2024-11-06 18:31:28,496] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:31:28,507] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.071 seconds
+[2024-11-06 18:31:58,886] {processor.py:162} INFO - Started process (PID=10160) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:31:58,887] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:31:58,888] {logging_mixin.py:109} INFO - [2024-11-06 18:31:58,887] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:31:58,904] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:31:58,941] {logging_mixin.py:109} INFO - [2024-11-06 18:31:58,940] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:31:58,967] {logging_mixin.py:109} INFO - [2024-11-06 18:31:58,967] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:31:58,982] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.100 seconds
+[2024-11-06 18:32:29,067] {processor.py:162} INFO - Started process (PID=10212) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:32:29,070] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:32:29,071] {logging_mixin.py:109} INFO - [2024-11-06 18:32:29,071] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:32:29,086] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:32:29,115] {logging_mixin.py:109} INFO - [2024-11-06 18:32:29,115] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:32:29,137] {logging_mixin.py:109} INFO - [2024-11-06 18:32:29,137] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:32:29,148] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.087 seconds
+[2024-11-06 18:32:59,598] {processor.py:162} INFO - Started process (PID=10274) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:32:59,599] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:32:59,599] {logging_mixin.py:109} INFO - [2024-11-06 18:32:59,599] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:32:59,625] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:32:59,674] {logging_mixin.py:109} INFO - [2024-11-06 18:32:59,674] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:32:59,696] {logging_mixin.py:109} INFO - [2024-11-06 18:32:59,696] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:32:59,704] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.109 seconds
+[2024-11-06 18:33:29,925] {processor.py:162} INFO - Started process (PID=10326) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:33:29,930] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:33:29,931] {logging_mixin.py:109} INFO - [2024-11-06 18:33:29,931] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:33:29,946] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:33:29,984] {logging_mixin.py:109} INFO - [2024-11-06 18:33:29,983] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:33:30,008] {logging_mixin.py:109} INFO - [2024-11-06 18:33:30,008] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:33:30,022] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.102 seconds
+[2024-11-06 18:34:00,057] {processor.py:162} INFO - Started process (PID=10388) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:34:00,058] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:34:00,059] {logging_mixin.py:109} INFO - [2024-11-06 18:34:00,059] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:34:00,071] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:34:00,096] {logging_mixin.py:109} INFO - [2024-11-06 18:34:00,096] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:34:00,113] {logging_mixin.py:109} INFO - [2024-11-06 18:34:00,112] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:34:00,122] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.070 seconds
+[2024-11-06 18:34:30,140] {processor.py:162} INFO - Started process (PID=10440) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:34:30,143] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:34:30,144] {logging_mixin.py:109} INFO - [2024-11-06 18:34:30,144] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:34:30,160] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:34:30,184] {logging_mixin.py:109} INFO - [2024-11-06 18:34:30,184] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:34:30,199] {logging_mixin.py:109} INFO - [2024-11-06 18:34:30,199] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:34:30,210] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.073 seconds
+[2024-11-06 18:35:00,351] {processor.py:162} INFO - Started process (PID=10502) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:35:00,353] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:35:00,353] {logging_mixin.py:109} INFO - [2024-11-06 18:35:00,353] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:35:00,367] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:35:00,394] {logging_mixin.py:109} INFO - [2024-11-06 18:35:00,394] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:35:00,411] {logging_mixin.py:109} INFO - [2024-11-06 18:35:00,411] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:35:00,421] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.073 seconds
+[2024-11-06 18:35:31,163] {processor.py:162} INFO - Started process (PID=10554) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:35:31,167] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:35:31,168] {logging_mixin.py:109} INFO - [2024-11-06 18:35:31,168] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:35:31,184] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:35:31,221] {logging_mixin.py:109} INFO - [2024-11-06 18:35:31,221] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:35:31,245] {logging_mixin.py:109} INFO - [2024-11-06 18:35:31,245] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:35:31,258] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.101 seconds
+[2024-11-06 18:36:01,519] {processor.py:162} INFO - Started process (PID=10616) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:36:01,520] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:36:01,521] {logging_mixin.py:109} INFO - [2024-11-06 18:36:01,521] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:36:01,532] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:36:01,555] {logging_mixin.py:109} INFO - [2024-11-06 18:36:01,555] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:36:01,571] {logging_mixin.py:109} INFO - [2024-11-06 18:36:01,571] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:36:01,580] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.065 seconds
+[2024-11-06 18:36:31,886] {processor.py:162} INFO - Started process (PID=10668) to work on /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:36:31,890] {processor.py:613} INFO - Processing file /opt/airflow/dags/hello_dag.py for tasks to queue
+[2024-11-06 18:36:31,891] {logging_mixin.py:109} INFO - [2024-11-06 18:36:31,890] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:36:31,910] {processor.py:623} INFO - DAG(s) dict_keys(['check_disk_space_dag']) retrieved from /opt/airflow/dags/hello_dag.py
+[2024-11-06 18:36:31,945] {logging_mixin.py:109} INFO - [2024-11-06 18:36:31,945] {dag.py:1834} INFO - Sync 1 DAGs
+[2024-11-06 18:36:31,966] {logging_mixin.py:109} INFO - [2024-11-06 18:36:31,966] {dag.py:2287} INFO - Setting next_dagrun for check_disk_space_dag to 2024-11-06 00:00:00+00:00
+[2024-11-06 18:36:31,980] {processor.py:170} INFO - Processing /opt/airflow/dags/hello_dag.py took 0.097 seconds
