@@ -26,7 +26,10 @@ poetry/project/project/__pycache__
 12_DataEnd/grafana/data/pdf/
 12_DataEnd/grafana/data/csv/
 s
+
+
+
+#12 Dataend 
 #leraning airflow 
-12_DataEnd/airflow/airflow/logs
-12_DataEnd/airflow/airflow-install/
-12_DataEnd/airflow/airflow-install/airflow/airflow.db
+06_Dataengnner/airflow/airflow-install/airflow/logs
+06_Dataengnner/airflow/airflow-install/airflow/dags/__pycache__
