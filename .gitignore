@@ -33,3 +33,8 @@ s
 #leraning airflow 
 06_Dataengnner/airflow/airflow-install/airflow/logs
 06_Dataengnner/airflow/airflow-install/airflow/dags/__pycache__
+06_Dataengnner/airflow/airflow-install/airflow/
+
+
+# project 
+06_Dataengnner/sentEmailWithPython/.env
