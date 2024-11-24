@@ -1,7 +1,8 @@
 # Guess a number between
 #!/usr/bin/env python
 # 2024-10-28
-#
+# Number Guessing Game
+
 import random
 
 
@@ -10,7 +11,7 @@ def main():
     print("-----------------------------------")
     print("Guess a number between 1 and 100")
     print("-----------------------------------")
-    print("Press X : exite")
+    print("Press X : exit")
     print("===================================")
 
     while True:
