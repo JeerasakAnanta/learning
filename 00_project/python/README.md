@@ -1,5 +1,4 @@
-# Game
-## Python Game Projects
+# Game  Python Game Projects
 
 ### 1. Number Guessing Game
 - [ ] A simple game where players try to guess a random number between 1-100.
