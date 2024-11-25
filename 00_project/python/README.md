@@ -2,11 +2,11 @@
 
 ### 1. Number Guessing Game
 
-- [ ] A simple game where players try to guess a random number between 1-100.
+- [x] A simple game where players try to guess a random number between 1-100.
 
 ### 2. Rock, Paper, Scissors
 
-- [ ] Classic hand game implemented in Python. Player vs Computer.
+- [x] Classic hand game implemented in Python. Player vs Computer.
 
 ### 3. To-Do List Application
 
