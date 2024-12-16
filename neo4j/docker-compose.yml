@@ -1,0 +1,21 @@
+services:
+  neo4j:
+    image: neo4j:latest
+    restart: always
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+      - neo4j_import:/var/lib/neo4j/import
+    environment:
+      - NEO4J_AUTH=neo4j/test  # Change this to set your own username/password
+      - NEO4J_DBMS_MEMORY_HEAP_INITIAL_SIZE=512m
+      - NEO4J_DBMS_MEMORY_HEAP_MAX_SIZE=2G
+      - NEO4J_CA_CERT_FILE=/var/lib/neo4j/certificates/neo4j.cert
+    ports:
+      - 7474:7474  # HTTP
+      - 7687:7687  # Bolt
+
+volumes:
+  neo4j_data:
+  neo4j_logs:
+  neo4j_import:
