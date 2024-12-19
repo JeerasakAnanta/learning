@@ -1,23 +1,14 @@
 services:
   excalidraw:
-    build:
-      context: .
-      args:
-        - NODE_ENV=development
     container_name: excalidraw
+    image: excalidraw/excalidraw
     ports:
-      - "3002:80"
-    restart: on-failure
-    stdin_open: true
-    healthcheck:
-      disable: true
+      - "3002:3000"
     environment:
-      - NODE_ENV=development
+      - REACT_APP_API_BASE_URL=http://localhost:3000/api
+    restart: always
     volumes:
-      - ./:/opt/node_app/app:delegated
-      - ./package.json:/opt/node_app/package.json
-      - ./yarn.lock:/opt/node_app/yarn.lock
-      - notused:/opt/node_app/app/node_modules
+      - excalidraw_data:/usr/src/app/data
 
 volumes:
-  notused:
+  excalidraw_data:
