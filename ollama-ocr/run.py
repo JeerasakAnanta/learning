@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+#date 2024-12-16
+# run code about  7.8 min on cPU 
+
 from ollama_ocr import OCRProcessor
 
 # Initialize OCR processor
@@ -10,3 +14,5 @@ result = ocr.process_image(
 )
 with open('result.md', 'w') as f:
     f.write(result)
+
+
