@@ -43,4 +43,4 @@ docling/.venv/
 
 
 #fastAPI
-./fastAPI/.env_fastapi
+fastAPI/.env_fastapi/
