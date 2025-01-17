@@ -40,3 +40,7 @@ s
 06_Dataengnner/sentEmailWithPython/.env
 
 docling/.venv/
+
+
+#fastAPI
+./fastAPI/.env_fastapi
