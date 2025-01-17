@@ -9,9 +9,10 @@ def read_root():
 
 @app.get("/hello")
 def hello():
-
     x = "hello world ;)"
     return {"message": x}
 
 @app.post("/predict")
+def predict():
     return {"message": "post"}
+
