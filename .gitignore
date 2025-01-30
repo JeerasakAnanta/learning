@@ -48,5 +48,5 @@ fastAPI/.env_fastapi/
 
 
 # node login 
-node-login/node_modules/
+node_login/node_modules/
 node_login/.env
