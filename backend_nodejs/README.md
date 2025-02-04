@@ -18,3 +18,5 @@
 │── .gitignore            # ไฟล์บอก Git ว่าห้าม push อะไร
 │── package.json          # รายละเอียดของโปรเจ็กต์และ dependencies
 │── server.js             # จุดเริ่มต้นของเซิร์ฟเวอร์
+
+docker run -d --name mongodb -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=password mongo
