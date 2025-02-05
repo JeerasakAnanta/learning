@@ -50,3 +50,9 @@ fastAPI/.env_fastapi/
 # node login 
 node_login/node_modules/
 node_login/.env
+
+# nodejs backend 
+backend_nodejs/.env
+backend_nodejs/node_modules
+
+#
