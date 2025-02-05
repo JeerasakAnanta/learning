@@ -1,0 +1,21 @@
+services:
+  traefik:
+    image: traefik:v3.3.3
+    container_name: traefik
+    command:
+      - "--api.insecure=true" # Enable the Traefik dashboard (not secure)
+      - "--providers.docker=true" # Enable Docker as a provider
+      - "--entrypoints.web.address=:80" # Define entrypoint for HTTP
+      - "--entrypoints.websecure.address=:443" # Define entrypoint for HTTPS
+    ports:
+      - "80:80" # Expose port 80
+      - "443:443" # Expose port 443
+      - "8080:8080" # Expose the Traefik dashboard on port 8080
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock" # Allow Traefik to access the Docker socket
+
+  whoami:
+    # A container that exposes an API to show its IP address
+    image: traefik/whoami
+    labels:
+      - "traefik.http.routers.whoami.rule=Host(`whoami.docker.localhost`)"
