@@ -56,3 +56,6 @@ backend_nodejs/.env
 backend_nodejs/node_modules
 
 #
+rag_deepseek-r1/__pycache__/rag.cpython-312.pyc
+rag_deepseek-r1/.env_rag_deepseek-r1/
+rag_deepseek-r1/chroma_db/
