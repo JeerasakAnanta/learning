@@ -59,3 +59,13 @@ backend_nodejs/node_modules
 rag_deepseek-r1/__pycache__/rag.cpython-312.pyc
 rag_deepseek-r1/.env_rag_deepseek-r1/
 rag_deepseek-r1/chroma_db/
+docker_swarm/.env_swarm
+docker_swarm/.vscode
+docker_swarm/node_modules
+expressjs/node_modules
+typeScript/node_modules
+solidtime/.env
+rust/hello_cargo
+rust/hello
+nginx_Reverse_Proxy/node_modules
+nginx_Reverse_Proxy/.vscode
