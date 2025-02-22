@@ -70,3 +70,4 @@ rust/hello
 nginx_Reverse_Proxy/node_modules
 nginx_Reverse_Proxy/.vscode
 pandas/.env_pandas
+manim/.env_manim
