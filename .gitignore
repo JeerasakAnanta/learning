@@ -73,3 +73,4 @@ pandas/.env_pandas
 manim/.env_manim
 langChain_web_Search_Tools/node_modules
 langChain_web_Search_Tools/.env
+langChain_js/node_modules
