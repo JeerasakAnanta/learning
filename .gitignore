@@ -71,3 +71,5 @@ nginx_Reverse_Proxy/node_modules
 nginx_Reverse_Proxy/.vscode
 pandas/.env_pandas
 manim/.env_manim
+langChain_web_Search_Tools/node_modules
+langChain_web_Search_Tools/.env
