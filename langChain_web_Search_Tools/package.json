@@ -1,0 +1,28 @@
+{
+  "name": "langchain_web_search_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "api": "node app_API.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@langchain/community": "^0.3.32",
+    "@langchain/core": "^0.3.40",
+    "@langchain/openai": "^0.4.4",
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "langchain": "^0.3.19",
+    "nodemon": "^3.1.9",
+    "openai": "^4.85.1"
+  }
+}
