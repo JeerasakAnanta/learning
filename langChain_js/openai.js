@@ -1,9 +1,16 @@
-// import {OpenAI} from '@langchain/core'
-// import { OpenAIEmbeddings } from "@langchain/openai";
-// import { OpenAIModerationChain } from "langchain/chains";
-
 const { ChatOpenAI } = require("@langchain/openai");
 const { OpenAIEmbeddings } = require("@langchain/openai");
+
+const {
+  TavilySearchResults,
+} = require("@langchain/community/tools/tavily_search");
+const { MemorySaver } = require("@langchain/langgraph");
+const { HumanMessage } = require("@langchain/core/messages");
+const { createReactAgent } = require("@langchain/langgraph/prebuilt");
+
+require('dotenv').config()
+
+
 
 const model = new ChatOpenAI({
   openAIApiKey: process.env.OPENAI_API_KEY,
@@ -15,3 +22,7 @@ const embeddings = new OpenAIEmbeddings({
   modelName: "text-embedding-ada-002",
 });
 
+
+// Define the tools for the agent to use
+const agentTools = [new TavilySearchResults({ maxResults: 3 })];
+const agentModel = new ChatOpenAI({ temperature: 0 });
