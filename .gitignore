@@ -75,3 +75,8 @@ langChain_web_Search_Tools/node_modules
 langChain_web_Search_Tools/.env
 langChain_js/node_modules
 langChain_js/.env
+langgraph_js/node_modules
+langgraph_js/.env
+langChain_python/.env
+
+
