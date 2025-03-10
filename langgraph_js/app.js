@@ -1,41 +1,43 @@
-var createError = require('http-errors');
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
+import { TavilySearchResults } from "@langchain/community/tools/tavily_search";
+import { ChatOpenAI } from "@langchain/openai";
+import { MemorySaver } from "@langchain/langgraph";
+import { HumanMessage } from "@langchain/core/messages";
+import { createReactAgent } from "@langchain/langgraph/prebuilt";
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+import dotenv from "dotenv";
+dotenv.config();
 
-var app = express();
+// env
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+const TAVILY_API_KEY = process.env.TAVILY_API_KEY;
 
-// view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jade');
+// Define the tools for the agent to use
+const agentTools = [new TavilySearchResults({ maxResults: 3 })];
+const agentModel = new ChatOpenAI({ temperature: 0 });
 
-app.use(logger('dev'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
-
-app.use('/', indexRouter);
-app.use('/users', usersRouter);
-
-// catch 404 and forward to error handler
-app.use(function(req, res, next) {
-  next(createError(404));
+// Initialize memory to persist state between graph runs
+const agentCheckpointer = new MemorySaver();
+const agent = createReactAgent({
+  llm: agentModel,
+  tools: agentTools,
+  checkpointSaver: agentCheckpointer,
 });
 
-// error handler
-app.use(function(err, req, res, next) {
-  // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
+// Now it's time to use!
+const agentFinalState = await agent.invoke(
+  { messages: [new HumanMessage("what is the current weather in sf")] },
+  { configurable: { thread_id: "42" } }
+);
 
-  // render the error page
-  res.status(err.status || 500);
-  res.render('error');
-});
+console.log(
+  agentFinalState.messages[agentFinalState.messages.length - 1].content
+);
 
-module.exports = app;
+const agentNextState = await agent.invoke(
+  { messages: [new HumanMessage("what about ny")] },
+  { configurable: { thread_id: "42" } }
+);
+
+console.log(
+  agentNextState.messages[agentNextState.messages.length - 1].content
+);
