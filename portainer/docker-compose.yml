@@ -1,0 +1,13 @@
+services:
+  portainer:
+    image: portainer/portainer-ce:latest  # Use the latest version of Portainer Community Edition
+    container_name: portainer
+    restart: always
+    ports:
+      - "9000:9000"  # Expose Portainer on port 9000 for HTTP
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock  # Allow Portainer to manage Docker
+      - portainer_data:/data  # Persist Portainer data
+
+volumes:
+  portainer_data:
