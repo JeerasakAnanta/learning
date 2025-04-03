@@ -78,5 +78,4 @@ langChain_js/.env
 langgraph_js/node_modules
 langgraph_js/.env
 langChain_python/.env
-
-
+home-assistant/
