@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mygame"
+version = "0.1.2"
+description = ""
+authors = ["Game <jeerasakananta@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pygame = "^2.6.1"
+pytest = "^8.3.5"
+requests = "^2.32.3"
+pendulum = "^3.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
