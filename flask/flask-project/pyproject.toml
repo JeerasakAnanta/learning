@@ -1,0 +1,7 @@
+[project]
+name = "flask-project"
+version = "0.1.0"
+description = "flask  project with python stacking"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["flask>=3.1.1"]
