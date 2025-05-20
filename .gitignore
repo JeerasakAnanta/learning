@@ -81,3 +81,12 @@ langChain_python/.env
 home-assistant/
 
 pihole/etc-pihole
+pygame/mygame/mygame/__pycache__/__init__.cpython-312.pyc
+pygame/mygame/mygame/__pycache__/main.cpython-312.pyc
+pygame/mygame/dist/mygame-0.1.2-py3-none-any.whl
+pygame/mygame/dist/mygame-0.1.2.tar.gz
+
+
+#  uv project 
+uv/example/.python-version
+uv/example/app/__pycache__/main.cpython-311.pyc
