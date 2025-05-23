@@ -1,0 +1,7 @@
+[project]
+name = "langchain-python"
+version = "0.1.0"
+description = "learn langchain with python  my personal notes"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["langchain[openai]>=0.3.25"]
