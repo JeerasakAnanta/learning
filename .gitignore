@@ -90,3 +90,4 @@ pygame/mygame/dist/mygame-0.1.2.tar.gz
 #  uv project 
 uv/example/.python-version
 uv/example/app/__pycache__/main.cpython-311.pyc
+google_AI_Studio/.env
