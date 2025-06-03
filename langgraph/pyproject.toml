@@ -1,7 +1,14 @@
 [project]
-name = "langgraph"
+name = "leraning_langgraph"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.25",
+    "langchain-openai>=0.3.19",
+    "langgraph>=0.4.8",
+    "langsmith>=0.3.44",
+]
