@@ -1,6 +1,15 @@
-def main():
-    print("Hello from flask-project!")
+from flask import Flask
+from markupsafe import escape
+
+app = Flask(__name__)
 
 
-if __name__ == "__main__":
-    main()
+@app.route("/")
+def index():
+    return "index  page"
+
+
+@app.route("/hello")
+def hello():
+
+    return "hello world"
