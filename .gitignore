@@ -1,3 +1,6 @@
+*.env
+*__pycache__ 
+
 ./streamlit/streamlit
 uploadfile/node_modules
 typhoon/.venv
@@ -24,8 +27,7 @@ poetry/project/project/__pycache__
 02_DataBase/postgres/pgdata/
 12_DataEnd/grafana/data/png/
 12_DataEnd/grafana/data/pdf/
-12_DataEnd/grafana/data/csv/
-s
+12_DataEnd/grafana/data/csv/ 
 
 
 
