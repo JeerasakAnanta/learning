@@ -94,3 +94,11 @@ uv/example/.python-version
 uv/example/app/__pycache__/main.cpython-311.pyc
 google_AI_Studio/.env
 langgraph/.env
+
+# Docusaurus
+.docusaurus/
+build/
+node_modules/
+node_modules
+
+*.env
