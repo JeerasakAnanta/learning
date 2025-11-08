@@ -33,14 +33,4 @@ Visit the full documentation at: [Learning Hub Documentation](https://jeerasakan
 - **Data Engineering**: Pandas, SQLAlchemy, Airflow, Streamlit, PyTorch, TensorFlow
 - **Projects**: Various practical applications and implementations
 
-## 🛠️ Built With
-
-- [Docusaurus](https://docusaurus.io/) - Documentation framework
-- [React](https://reactjs.org/) - Frontend library
-- [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
-- [Infima](https://infima.dev/) - CSS framework
-
-## 📄 License
-
-This project is licensed under the ISC License.
 
