@@ -32,5 +32,3 @@ Visit the full documentation at: [Learning Hub Documentation](https://jeerasakan
 - **LLM & AI**: LangChain, LangGraph, OpenAI, Ollama, RAG, Vector Databases
 - **Data Engineering**: Pandas, SQLAlchemy, Airflow, Streamlit, PyTorch, TensorFlow
 - **Projects**: Various practical applications and implementations
-
-
