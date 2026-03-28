@@ -1,104 +1,69 @@
+# Environment Variables
 *.env
-*__pycache__ 
+.env*
+!.env.example
+!.env.sample
 
-./streamlit/streamlit
-uploadfile/node_modules
-typhoon/.venv
-./tailwindcss/node_modules/
-/home/game/learning/tailwindcss/node_modules
-tailwindcss/node_modules/
-
-#kaggle 
-kaggle/.venv
-
-#python env 
-python/env/
-
-
-#gramfana 
-./grafana/data/
-grafana/data/grafana.db
-poetry/project/node_modules
-poetry/project/project/__pycache__
-12_DataEnd/grafana/data/grafana.db
-
-
-#  
-02_DataBase/postgres/pgdata/
-12_DataEnd/grafana/data/png/
-12_DataEnd/grafana/data/pdf/
-12_DataEnd/grafana/data/csv/ 
-
-
-
-#12 Dataend 
-#leraning airflow 
-06_Dataengnner/airflow/airflow-install/airflow/logs
-06_Dataengnner/airflow/airflow-install/airflow/dags/__pycache__
-06_Dataengnner/airflow/airflow-install/airflow/
-
-
-# project 
-06_Dataengnner/sentEmailWithPython/.env
-
-docling/.venv/
-
-
-#fastAPI
-fastAPI/.env_fastapi/
-
-
-
-# node login 
-node_login/node_modules/
-node_login/.env
-
-# nodejs backend 
-backend_nodejs/.env
-backend_nodejs/node_modules
-
-#
-rag_deepseek-r1/__pycache__/rag.cpython-312.pyc
-rag_deepseek-r1/.env_rag_deepseek-r1/
-rag_deepseek-r1/chroma_db/
-docker_swarm/.env_swarm
-docker_swarm/.vscode
-docker_swarm/node_modules
-expressjs/node_modules
-typeScript/node_modules
-solidtime/.env
-rust/hello_cargo
-rust/hello
-nginx_Reverse_Proxy/node_modules
-nginx_Reverse_Proxy/.vscode
-pandas/.env_pandas
-manim/.env_manim
-langChain_web_Search_Tools/node_modules
-langChain_web_Search_Tools/.env
-langChain_js/node_modules
-langChain_js/.env
-langgraph_js/node_modules
-langgraph_js/.env
-langChain_python/.env
-home-assistant/
-
-
-pihole/etc-pihole
-pygame/mygame/mygame/__pycache__/__init__.cpython-312.pyc
-pygame/mygame/mygame/__pycache__/main.cpython-312.pyc
-pygame/mygame/dist/mygame-0.1.2-py3-none-any.whl
-pygame/mygame/dist/mygame-0.1.2.tar.gz
-
-#  uv project 
-uv/example/.python-version
-uv/example/app/__pycache__/main.cpython-311.pyc
-google_AI_Studio/.env
-langgraph/.env
-
-# Docusaurus
-.docusaurus/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv/
+venv/
+ENV/
+env/
+.venv
+venv
+.env_*/
+
+# Node.js
 node_modules/
 node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
 
-*.env
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+dist/
+build/
+.next/
+out/
+
+# Project-specific
+home-assistant/
+pihole/etc-pihole
+02_DataBase/postgres/pgdata/
+12_DataEnd/
+grafana/data/
+.docusaurus/
+
+# Docker & Data
+chroma_db/
+.python-version
